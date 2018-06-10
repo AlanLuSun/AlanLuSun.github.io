@@ -1,7 +1,7 @@
 ---
 title: 大学篇-月过无华
 date: 2017-09-17
-permalink: /posts/2017-09-17-My-College
+permalink: /posts/2017-09-17-My-College/
 excerpt: 文章难在开头，就这样动笔吧~~
 tags:
   - College Life
