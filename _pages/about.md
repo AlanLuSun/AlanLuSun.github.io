@@ -60,6 +60,6 @@ Served to review the manuscripts of CVPR 2018 Workshop, ICMLA 2018.
 
 For more information  
 ===  
-Here is my [old CV](https://alanlusun.github.io/files/my-CV.pdf) that will be update soon.
+Here is my [old CV](https://alanlusun.github.io/files/my-CV.pdf) that will be updated soon.
 
 [[go top](https://alanlusun.github.io/)]
