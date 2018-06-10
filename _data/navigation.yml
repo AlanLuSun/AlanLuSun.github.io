@@ -1,0 +1,27 @@
+# main links links
+main:
+#my blog posts
+  - title: "Sharing" 
+    url: /my-blogs/
+    
+  - title: "Teaching"
+    url: /teaching/ 
+    
+  - title: "Publications"
+    url: /publications/
+
+  - title: "News"
+    url: /news/
+    
+  #- title: "Talks"
+  #  url: /talks/    
+   
+    
+  #- title: "Portfolio"
+  #  url: /portfolio/
+    
+  #- title: "CV"
+  #  url: /cv/
+    
+  #- title: "Guide"
+  #  url: /markdown/
