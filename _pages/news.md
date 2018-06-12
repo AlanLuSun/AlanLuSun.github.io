@@ -1,13 +1,11 @@
 ---
-layout: archive
-title: "News"
 permalink: /news/
+title: "News"
+excerpt: "My News"
 author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
 
 
 **Friday, June 27, 2018**  
