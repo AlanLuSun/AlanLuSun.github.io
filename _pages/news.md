@@ -13,7 +13,7 @@ redirect_from:
 **Friday, June 27, 2018**  
 
 ---
-* I will deliver a report on the [ <font color="#AAAAFF" size="4.5" style="font-style:italic">2018 American Control Conference</font> ](http://acc2018.a2c2.org/) (ACC 2018) at Wisconsin Center, Milwaukee, USA. Hope to team up for this trip~~
+* I will attend the [ <font color="#AAAAFF" size="4.5" style="font-style:italic">2018 American Control Conference</font> ](http://acc2018.a2c2.org/) (ACC 2018) at Wisconsin Center, Milwaukee, USA. Hope to team up for this trip~~
 
 ~~**Monday, September 18, 2017**~~
 

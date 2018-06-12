@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
->I received the BS degree in automation from Southeast University, Nanjing, China, in 2017. Currently, I am a MS student with the Key Laboratory of System Control and Information Processing, Shanghai Jiao Tong University. <!--My current research interests include artificial intelligence, pattern recognition, image processing and robotics.--> 
+>I received the B.S. degree in Automation from Southeast University, Nanjing, China, in 2017. Currently, I am a M.S. student with the Key Laboratory of System Control and Information Processing, Shanghai Jiao Tong University. <!--My current research interests include artificial intelligence, pattern recognition, image processing and robotics.--> 
 I have wide research interests mainly including artificial initelligence, image processing, machine learning, patern recognition and robotics. Particularly, I am interested in the theories and algorithms that empower robot to see, think and conduct more like a human by incorporating the techneques of some successful stories of deep learning.  
 
->Previously, I was listed in the first term of Huawei FX future scientist program member and enjoyed one-month summer internship in Huawei Nanjing Rearch Institute in 2016. From Oct. 20, 2016 to May 1, 2017, I served as a part-time duty personnel in Joint Stars Technology CO., LTD, Nanjing, where I gained lots of knowledge about industrial standards and engineeing implementation.  
+>Previously, I was listed in the first term of Huawei F(X) future scientist program member and enjoyed one-month summer internship in Huawei Nanjing Rearch Institute in 2016. From Oct. 20, 2016 to May 1, 2017, I served as a part-time duty personnel in Joint Stars Technology CO., LTD, Nanjing, where I gained lots of knowledge about industrial standards and engineeing implementation.  
 
->I look forward to starting a meaningful and wonderful Ph.D. period and proceeding the corresponding excercise after my MS graduation in 2019. It would be grateful for your passionate advice~~  
+>I look forward to starting a meaningful and wonderful Ph.D. period and proceeding the corresponding excercise after my M.S. graduation in 2019. It would be very grateful for your passionate advice~~  
 
 [[go top](https://alanlusun.github.io/)]
 
@@ -60,6 +60,6 @@ Served to review the manuscripts of CVPR 2018 Workshop, ICMLA 2018.
 
 For more information  
 ===  
-Here is my [old CV](https://alanlusun.github.io/files/my-CV.pdf) that will be updated soon.
+Here is my [old CV](https://alanlusun.github.io/files/my-CV.pdf) which will be updated soon.
 
 [[go top](https://alanlusun.github.io/)]
