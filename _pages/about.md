@@ -7,12 +7,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
->I received the B.S. degree in Automation from Southeast University, Nanjing, China, in 2017. Currently, I am a M.S. student with the Key Laboratory of System Control and Information Processing, Shanghai Jiao Tong University. <!--My current research interests include artificial intelligence, pattern recognition, image processing and robotics.--> 
-I have wide research interests mainly including artificial intelligence, image processing, machine learning, pattern recognition and robotics. Particularly, I am interested in the theories and algorithms that empower robot to see, think and conduct more like a human by incorporating the techniques of some successful stories of deep learning.  
+>I received the B.S. degree in Automation from Southeast University, Nanjing, China, in 2017. Currently, I am an M.S. student with the Key Laboratory of System Control and Information Processing, Shanghai Jiao Tong University. <!--My current research interests include artificial intelligence, pattern recognition, image processing and robotics.--> 
+I have wide research interests mainly including artificial intelligence, image processing, machine learning, pattern recognition and robotics. Particularly, I am interested in the theories and algorithms that empower robot to see, think and conduct more like a human by incorporating the techniques of some success stories of deep learning.  
 
->Previously, I was listed in the first term of Huawei F(X) future scientist program member and enjoyed one-month summer internship in Huawei Nanjing Research Institute in 2016. From Oct. 20, 2016 to May 1, 2017, I served as a part-time duty personnel in Joint Stars Technology CO., LTD, Nanjing, where I gained lots of knowledge about industrial standards and engineering implementation.  
+>Previously, I was listed in the first term of Huawei F(X) future scientist program member and enjoyed one-month summer internship in Huawei Nanjing Research Institute in 2016. From Oct. 20, 2016, to May 1, 2017, I served as a part-time duty personnel in Joint Stars Technology CO., LTD, Nanjing, where I gained lots of knowledge about industrial standards and engineering implementation.  
 
->I look forward to starting a meaningful and wonderful Ph.D. period and proceeding the corresponding excercise after my M.S. graduation in 2019. It would be very grateful for your passionate advice~~  
+>I look forward to starting a meaningful and wonderful Ph.D. period and proceeding with the corresponding excercise after my M.S. graduation in 2019. It would be very grateful for your passionate advice~~  
 
 [[go top](https://alanlusun.github.io/)]
 
