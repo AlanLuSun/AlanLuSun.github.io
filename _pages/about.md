@@ -12,7 +12,7 @@ I have wide research interests mainly including artificial intelligence, image p
 
 >Previously, I was listed in the first term of Huawei F(X) future scientist program member and enjoyed one-month summer internship in Huawei Nanjing Research Institute in 2016. From Oct. 20, 2016, to May 1, 2017, I served as a part-time duty personnel in Joint Stars Technology CO., LTD, Nanjing, where I gained lots of knowledge about industrial standards and engineering implementation.  
 
->I look forward to starting a meaningful and wonderful Ph.D. period and proceeding with the corresponding excercise after my M.S. graduation in 2019. It would be very grateful for your passionate advice~~  
+>I look forward to starting a meaningful and wonderful Ph.D. period and proceeding with the corresponding exercise after my M.S. graduation in 2019. It would be very grateful for your passionate advice~~  
 
 [[go top](https://alanlusun.github.io/)]
 
