@@ -53,7 +53,7 @@ Served to review the manuscripts of Neural Processing Letters, IEEE/CAA Journal 
 
 ---  
 **Conference Services:**  
-Served to review the manuscripts of CVPR 2018 Workshop, ICMLA 2018.
+Served to review the manuscripts of CVPR 2018 Workshop, ICMLA 2018, ICONIP 2018.
 
 [[go top](https://alanlusun.github.io/)] 
 
