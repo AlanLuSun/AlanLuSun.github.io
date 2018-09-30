@@ -15,7 +15,7 @@ Journal:
 
 Authors: 
 ===
-**Changsheng Lu**, [Siyu Xia](http://automation.seu.edu.cn/Articles.aspx?id=2310), Chunmei Xu, [Ming Shao](http://www.cis.umassd.edu/~mshao/) and [Yun Fu](http://www1.ece.neu.edu/~yunfu/)
+**Changsheng Lu**, [Siyu Xia](http://automation.seu.edu.cn/Articles.aspx?id=2310), [Ming Shao](http://www.cis.umassd.edu/~mshao/) and [Yun Fu](http://www1.ece.neu.edu/~yunfu/)
 
 Abstract: 
 ===
