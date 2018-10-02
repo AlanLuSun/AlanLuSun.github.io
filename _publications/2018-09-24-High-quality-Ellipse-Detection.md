@@ -11,7 +11,7 @@ venue: '--'
 
 Journal:
 ===
-
+Submitted to IEEE Transactions on Pattern Analysis and Machine Learning
 
 Authors: 
 ===
