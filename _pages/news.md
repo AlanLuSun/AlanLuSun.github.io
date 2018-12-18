@@ -7,10 +7,11 @@ redirect_from:
   - /resume
 ---
 
-**December 13~16, 2018**
+~~**December 13~16, 2018**~~
 
 ---
-- 2018 International Conference on Neural Information Processing (ICONIP 2018) will be held in Siem Reap, Cambodia. 
+- [ <font color="#AAAAFF" size="4.5" style="font-style:italic">2018 International Conference on Neural Information Processing</font> ](https://conference.cs.cityu.edu.hk/iconip/) (ICONIP 2018) will be held in Siem Reap, Cambodia. 
+ <img src="https://alanlusun.github.io//images/news-images/2018/2018-12-13.jpg" width="80%" height="80%">
 
 ~~**Friday, June 27, 2018**~~  
 
