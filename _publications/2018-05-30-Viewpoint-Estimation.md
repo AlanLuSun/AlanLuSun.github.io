@@ -23,4 +23,4 @@ With the revival of deep neural networks, viewpoint estimation problem can be ha
 
 More details:
 ===  
-Please refer to [here](https://github.com/haotian-wang/viewpoint-estimation).
+Please refer to [PPT Slides](https://alanlusun.github.io/files/Viewpoint-estimation-ICONIP2018.pdf) and [Source code](https://github.com/haotian-wang/viewpoint-estimation).
