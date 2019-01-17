@@ -24,5 +24,5 @@ Circle detection is fundamental in both object detection and high accuracy local
 More details:
 ===  
 - Matlab Version Source Code: Please click [here](https://github.com/AlanLuSun/Circle-detection).  
-- C++ Version Source Code: Please email me for C++ version code that is only authorized for academic use.  
+- C++ Version Source Code: It is free and only authorized for academic use while charged for commerce.  
 - [Download paper](https://AlanLuSun.github.io/files/ICIP 2017-Circle detection.pdf).
