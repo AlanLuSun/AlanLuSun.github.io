@@ -49,7 +49,7 @@ Award and Honor
 Professional Activity  
 ===
 **Journal Services:**  
-Served to review the manuscripts of Neural Processing Letters, IEEE/CAA Journal of Automatica Sinica.  
+Served to review the manuscripts of Neural Processing Letters, IEEE/CAA Journal of Automatica Sinica, Journal of Visual Communication and Image Representation.  
 
 ---  
 **Conference Services:**  
