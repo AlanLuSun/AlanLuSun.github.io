@@ -51,6 +51,7 @@ Professional Activity
 **Journal Services**  
 Served to review the manuscripts including
 - Journal of Visual Communication and Image Representation (JVCIR)
+- Journal of Electronic Imaging
 - Neural Processing Letters (NPL)
 - IEEE/CAA Journal of Automatica Sinica  
 
