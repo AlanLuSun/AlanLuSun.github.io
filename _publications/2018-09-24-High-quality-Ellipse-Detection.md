@@ -24,4 +24,4 @@ Over the years many ellipse detection algorithms spring up and are studied broad
 More details:
 ===  
 - Matlab Version Source Code: Please click [here](https://github.com/AlanLuSun/High-quality-ellipse-detection).  
-- [Download paper](https://arxiv.org/abs/1810.03243v3).
+<!-- - [Download paper](https://arxiv.org/abs/1810.03243v3).-->
