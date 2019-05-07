@@ -7,6 +7,11 @@ redirect_from:
   - /resume
 ---
 
+**July 14~19, 2019**
+
+---
+- [ <font color="#AAAAFF" size="4.5" style="font-style:italic">The International Joint Conference on Neural Networks</font> ](https://www.ijcnn.org/) (IJCNN 2019) will be held in July, Budapest, Hungary. And I'm going to participate :). 
+
 ~~**December 13~16, 2018**~~
 
 ---
