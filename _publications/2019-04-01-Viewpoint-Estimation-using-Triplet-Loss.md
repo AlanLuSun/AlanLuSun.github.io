@@ -23,5 +23,5 @@ Viewpoint estimation is a fundamental procedure in vision-based robot tasks. A g
 
 More details:
 ===  
-- [Download paper](https://iopscience.iop.org/article/10.1088/1742-6596/1207/1/012009/pdf).  
+- click [Download paper](https://iopscience.iop.org/article/10.1088/1742-6596/1207/1/012009/meta) or [here](https://iopscience.iop.org/article/10.1088/1742-6596/1207/1/012009/pdf).  
 <!-- - [Download paper](https://arxiv.org/abs/1810.03243v3).-->
