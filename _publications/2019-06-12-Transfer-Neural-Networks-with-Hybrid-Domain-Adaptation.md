@@ -23,4 +23,4 @@ Transfer neural networks have been successfully applied in many domain adaptatio
 
 More details:
 ===  
-# Please refer to [PPT Slides](https://alanlusun.github.io/files/Viewpoint-estimation-ICONIP2018.pdf) and [Source code](https://github.com/haotian-wang/viewpoint-estimation).
+<!--Please refer to [PPT Slides](https://alanlusun.github.io/files/Viewpoint-estimation-ICONIP2018.pdf) and [Source code](https://github.com/haotian-wang/viewpoint-estimation).-->
