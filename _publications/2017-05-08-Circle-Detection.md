@@ -15,7 +15,7 @@ Coference:
 
 Authors: 
 ===
-**Changsheng Lu**, [Siyu Xia](http://automation.seu.edu.cn/Articles.aspx?id=2310), Wanming Huang, [Ming Shao](http://www.cis.umassd.edu/~mshao/) and [Yun Fu](http://www1.ece.neu.edu/~yunfu/)
+**Changsheng Lu**, [Siyu Xia](https://automation.seu.edu.cn/2019/0528/c24505a275207/page.htm), Wanming Huang, [Ming Shao](http://www.cis.umassd.edu/~mshao/) and [Yun Fu](http://www1.ece.neu.edu/~yunfu/)
 
 Abstract: 
 ===
