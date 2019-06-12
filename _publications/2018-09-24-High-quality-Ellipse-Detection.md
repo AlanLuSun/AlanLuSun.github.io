@@ -2,7 +2,7 @@
 title: "Arc-support Line Segments Revisited: An Efficient High-quality Ellipse Detection"
 collection: publications
 permalink: /publication/2018-09-24-High-quality-Ellipse-Detection/
-excerpt: '> *> **Changsheng Lu**, Siyu Xia, Ming Shao and Yun Fu*<br>> Over the years many ellipse detection algorithms spring up and are studied broadly, while the critical issue both accurately and efficiently detecting ellipses in real-world images still remains a challenge such that we cannnot find an applicable ellipse detector from Matlab and OpenCV. The main research task of paper is to propose an accurate and efficient ellipse detecotr.'
+excerpt: '> *>**Changsheng Lu**, Siyu Xia, Ming Shao and Yun Fu*<br>> Over the years many ellipse detection algorithms spring up and are studied broadly, while the critical issue both accurately and efficiently detecting ellipses in real-world images still remains a challenge such that we cannnot find an applicable ellipse detector from Matlab and OpenCV. The main research task of paper is to propose an accurate and efficient ellipse detecotr.'
 date: 2018-09-24
 venue: '--'
 #paperurl: 'https://ieeexplore.ieee.org/document/8296246/'
