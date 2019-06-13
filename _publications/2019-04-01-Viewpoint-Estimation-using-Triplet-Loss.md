@@ -9,9 +9,9 @@ venue: '--'
 #citation: 'Changsheng Lu, Siyu Xia, Wanming Huang, Ming Shao, Yun Fu. Circle Detection by Arc-support Line Segments. In: The 24rd IEEE International Conference on Image Processing (ICIP).'
 ---
 
-<!-- Journal: -->
-<!-- === -->
-<!-- Submitted to IEEE Transactions on Image Processing -->  
+Conference:
+===
+Journal of Physics: Conference Series 2019 
 
 Authors: 
 ===
