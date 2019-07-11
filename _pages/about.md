@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
->I received the B.S. degree in Automation from Southeast University, Nanjing, China, in 2017. Currently, I am an academic M.S. student with the Key Laboratory of System Control and Information Processing, Shanghai Jiao Tong University. <!--My current research interests include artificial intelligence, pattern recognition, image processing and robotics.--> 
+>**Changsheng Lu (卢长胜)** [[CV-English](https://alanlusun.github.io/files/myCV-EN.pdf), [CV-中文](https://alanlusun.github.io/files/myCV-CN.pdf)] received the B.S. degree in Automation from Southeast University, Nanjing, China, in 2017. Currently, I am an academic M.S. student with the Key Laboratory of System Control and Information Processing, Shanghai Jiao Tong University. <!--My current research interests include artificial intelligence, pattern recognition, image processing and robotics.--> 
 I have wide research interests mainly including artificial intelligence, image processing, machine learning, pattern recognition, and robotics. Particularly, I am interested in the theories and algorithms that empower robot to see, think and conduct more like a human by incorporating the techniques of some success stories of deep learning.  
 
 >Previously, I was listed in the first term of Huawei F(X) future scientist program member and enjoyed one-month summer internship in Huawei Nanjing Research Institute in 2016. From Oct. 20, 2016, to May 1, 2017, I served as a part-time duty personnel in Joint Stars Technology CO., LTD, Nanjing, where I gained lots of knowledge about industrial standards and engineering implementation.  
@@ -64,6 +64,6 @@ Served to review the manuscripts of AAAI 2019, CVPR 2018 Workshop, ICMLA (2017, 
 
 For more information  
 ===  
-Here is my [old CV](https://alanlusun.github.io/files/my-CV.pdf) which will be updated soon.
+Here is my CV [[English Version](https://alanlusun.github.io/files/myCV-EN.pdf), [中文版本](https://alanlusun.github.io/files/myCV-CN.pdf)].
 
 [[go top](https://alanlusun.github.io/)]
