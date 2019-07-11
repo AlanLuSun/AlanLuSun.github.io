@@ -1,5 +1,5 @@
 ---
-title: "C++ Teacher Assistant"
+title: "C++ Teaching Assistant"
 collection: teaching
 type: "Experiment"
 permalink: /teaching/2018-Spring-Cpp-TA/

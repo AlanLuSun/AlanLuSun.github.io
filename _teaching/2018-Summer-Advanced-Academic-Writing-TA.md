@@ -1,5 +1,5 @@
 ---
-title: "Advanced Academic Writing Teacher Assistant"
+title: "Advanced Academic Writing Teaching Assistant"
 collection: teaching
 type: "Course"
 permalink: /teaching/2018-Summer-Advanced-Academic-Writing-TA/
