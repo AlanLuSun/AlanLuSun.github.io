@@ -10,7 +10,7 @@ redirect_from:
 ~~**July 14~19, 2019**~~
 
 ---
-- [ <font color="#AAAAFF" size="4.5" style="font-style:italic">The International Joint Conference on Neural Networks</font> ](https://www.ijcnn.org/) (IJCNN 2019) will be held in July, Budapest, Hungary. And I'm going to participate :).  
+- [ <font color="#AAAAFF" size="4.5" style="font-style:italic">The International Joint Conference on Neural Networks</font> ](https://www.ijcnn.org/) (IJCNN 2019) will be held in July, Budapest, Hungary (notably, it is also the place where the "father of computer" Von Neumann graduated). I'm going to participate IJCNN :).  
 <img src="https://alanlusun.github.io//images/news-images/2019/2019-07-13.jpg" width="80%" height="80%">
 
 ~~**December 13~16, 2018**~~
