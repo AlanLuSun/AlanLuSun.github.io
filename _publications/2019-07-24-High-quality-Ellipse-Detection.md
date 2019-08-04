@@ -17,6 +17,11 @@ Authors:
 ===
 **Changsheng Lu**, [Siyu Xia](https://automation.seu.edu.cn/2019/0528/c24505a275207/page.htm), [Ming Shao](http://www.cis.umassd.edu/~mshao/) and [Yun Fu](http://www1.ece.neu.edu/~yunfu/)
 
+Quickview
+===  
+[<img src="https://raw.githubusercontent.com/AlanLuSun/High-quality-ellipse-detection/master/pics/27_result.jpg" width="50%" height="50%">](https://github.com/AlanLuSun/High-quality-ellipse-detection)  
+More examples please click [here](https://github.com/AlanLuSun/High-quality-ellipse-detection)
+
 Abstract: 
 ===
 Over the years many ellipse detection algorithms spring up and are studied broadly, while the critical issue both accurately and efficiently detecting ellipses in real-world images still remains a challenge. In this paper, an accurate and efficient ellipse detector by arc-support line segments is proposed. The arc-support line segment simplifies the complicated expression of curves in the image while keeping the general properties like convexity and polarity, which grounds the successful detection of ellipses. The arc-support groups are formed by iteratively and robustly linking the arc-support line segments that latently belonging to a common ellipse at point statistics level. Afterward, two complementary approaches, namely selecting the group with higher saliency to fit the ellipse directly and searching all the valid paired arc-support groups through three novel constraints, are utilized to generate the initial ellipse set both locally and globally. During the ellipse fitting step, a superposition principle of the fast ellipse fitting is developed to accelerate the fitting process. Then the ellipse candidates can be formulated by hierarchically clustering the decomposed 5D parameter space of initial ellipse set. Finally, the salient ellipse candidates are picked out as detections under the stringent and effective verification. Extensive experiments on three public datasets are implemented and our method achieves the best F-measure scores compared to the state-of-the-art ellipse detection algorithms, which highlights the high-quality detection performance of the proposed method.  
