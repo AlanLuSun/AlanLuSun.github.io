@@ -17,9 +17,9 @@ Authors:
 ===
 **Changsheng Lu**, [Siyu Xia](https://automation.seu.edu.cn/2019/0528/c24505a275207/page.htm), [Ming Shao](http://www.cis.umassd.edu/~mshao/) and [Yun Fu](http://www1.ece.neu.edu/~yunfu/)
 
-Quickview
+Quickview:
 ===  
-[<img src="https://raw.githubusercontent.com/AlanLuSun/High-quality-ellipse-detection/master/pics/27_result.jpg" width="50%" height="50%">](https://github.com/AlanLuSun/High-quality-ellipse-detection)  
+[<img src="https://raw.githubusercontent.com/AlanLuSun/High-quality-ellipse-detection/master/pics/27_result.jpg" width="60%" height="60%">](https://github.com/AlanLuSun/High-quality-ellipse-detection)  
 More examples please click [here](https://github.com/AlanLuSun/High-quality-ellipse-detection)
 
 Abstract: 
