@@ -11,7 +11,7 @@ venue: '--'
 
 Journal:
 ===
-[Neurocomputing, IF 3.241](https://www.journals.elsevier.com/neurocomputing)
+[Neurocomputing, IF 4.072](https://www.journals.elsevier.com/neurocomputing)
 
 Authors: 
 ===
