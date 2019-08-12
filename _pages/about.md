@@ -17,13 +17,13 @@ redirect_from:
 
 Awards and Honors
 ===  
-*2018 Scholarship of 14th Research Institute of China Electronics Technology Corporation*, 2018.
+*2018 Scholarship of 14th Research Institute of China Electronics Technology Corporation*, 2018.  
 
 ---
 *The Excellent League Member of Shanghai Jiao Tong University*, 2018-5.  
 
 ---
-*[2017 First class award for excellent undergraduate thesis of universities in Jiangsu province](http://www.jsjyt.gov.cn/xxgk/jcms_files/jcms1/web1/site/art/2018/4/11/art_262_9870.html)*, 2018-4.  
+*[2017 First class award for excellent undergraduate thesis of universities in Jiangsu province](http://jyt.jiangsu.gov.cn/art/2018/9/7/art_58320_7810502.html)*, 2018-4.  
 
 ---
 *National Scholarship* for graduate student, 2017-11.  
