@@ -67,6 +67,6 @@ Served to review the manuscripts of AAAI 2019, CVPR 2018 Workshop, ICMLA (2017, 
 
 For more information  
 ===  
-Here is my CV [[English Version](https://alanlusun.github.io/files/myCV-EN.pdf), [中文简历](https://alanlusun.github.io/files/myCV-CN.pdf)].
+Here is my CV [[English Version](https://alanlusun.github.io/files/CV_LuChangsheng_EN.pdf), [中文简历](https://alanlusun.github.io/files/CV_LuChangsheng_CN.pdf)].
 
 [[go top](https://alanlusun.github.io/)]
