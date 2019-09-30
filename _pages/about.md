@@ -17,7 +17,10 @@ redirect_from:
 
 Awards and Honors
 ===  
-*2018 Scholarship of 14th Research Institute of China Electronics Technology Corporation*, 2018.  
+*National Scholarship* for graduate student, 2019-9.  
+
+---
+*2018 Scholarship of 14th Research Institute of China Electronics Technology Corporation*, 2018-12.  
 
 ---
 *The Excellent League Member of Shanghai Jiao Tong University*, 2018-5.  
