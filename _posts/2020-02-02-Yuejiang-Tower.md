@@ -6,8 +6,6 @@ excerpt: 点点烈焰缀金龙，一贯长虹，何其汹汹；凭栏侧倚，�
 tags:
   - Poem
 ---
-<img src="https://alanlusun.github.io//images/post-images/2020/Yuejiang-Tower.jpg" width="80%">
-
 *天高地远*  
 *大江东流*  
 *浮云洒明暗*  
@@ -34,5 +32,7 @@ tags:
   
   
 2014.9.20  
-登阅江楼，南京
+登阅江楼，南京  
+
+<img src="https://alanlusun.github.io//images/post-images/2020/Yuejiang-Tower.jpg" width="100%">
 
