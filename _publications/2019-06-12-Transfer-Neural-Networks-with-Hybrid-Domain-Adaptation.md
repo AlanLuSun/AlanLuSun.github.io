@@ -23,6 +23,6 @@ Transfer neural networks have been successfully applied in many domain adaptatio
 
 More details:
 ===  
-- [Paper Official Link](https://www.sciencedirect.com/science/article/abs/pii/S0925231220308559#bi005).
-- [Download paper](https://AlanLuSun.github.io/files/2020-Neurocomputing-Deep-Transfer-Neural-Network.pdf).
+- [Paper Official Link](https://www.sciencedirect.com/science/article/abs/pii/S0925231220308559#bi005).  
+- [Download paper](https://AlanLuSun.github.io/files/2020-Neurocomputing-Deep-Transfer-Neural-Network.pdf).  
 <!--Please refer to [PPT Slides](https://alanlusun.github.io/files/Viewpoint-estimation-ICONIP2018.pdf) and [Source code](https://github.com/haotian-wang/viewpoint-estimation).-->
