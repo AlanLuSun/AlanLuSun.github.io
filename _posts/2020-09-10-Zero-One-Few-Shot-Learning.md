@@ -11,11 +11,17 @@ tags:
 *Author: Changsheng Lu (卢长胜)*
 
 ## 1、Zero-Shot Learning  
-1) Problem definition: Learning a model to work on unseen data when training and testing classes are disjoint. Taking the task of one-shot object classification as an example, when training an object classifier, there is no training samples of target classes. While in testing phase, we expect the object classifier could recognize the unseen target object to be a new class.
-2) Methods:
-   - Attribute-based method (see Paper: Learning to detect unseen object classes by between-class attribute transfer)
+### Problem definition:  
+   Learning a model to work on unseen data when training and testing classes are disjoint. Taking the task of one-shot object classification as an example, when training an object classifier, there is no training samples of target classes. While in testing phase, we expect the object classifier could recognize the unseen target object to be a new class.
+### Methods:
+   - Attribute-based method [1]
    - 
-3) 
+### Dataset:
+   - [Animals with Attributes (AWA)](https://cvml.ist.ac.at/AwA2/)
+   - 
+### References
+[1] Learning to detect unseen object classes by between-class attribute transfer
+
 
 
 ## 2、One-Shot Learning 
@@ -23,7 +29,7 @@ tags:
 
 
 ## 3、Few-Shot Learning  
-1) Methods:
+### Methods:
    - Model-based method
    - Metric-based method
    - Optimization-based method 
