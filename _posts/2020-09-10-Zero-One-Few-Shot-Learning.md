@@ -20,8 +20,8 @@ tags:
    - [Animals with Attributes (AWA)](https://cvml.ist.ac.at/AwA2/)
    - 
 ### References
-[1] Learning to detect unseen object classes by between-class attribute transfer
-
+[1] Lampert, Christoph H., Hannes Nickisch, and Stefan Harmeling. "Learning to detect unseen object classes by between-class attribute transfer." In 2009 IEEE Conference on Computer Vision and Pattern Recognition, pp. 951-958. IEEE, 2009.  
+[2] 
 
 
 ## 2、One-Shot Learning 
