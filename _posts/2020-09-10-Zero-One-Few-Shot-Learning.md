@@ -31,5 +31,11 @@ tags:
 ## 3、Few-Shot Learning  
 ### Methods:
    - Model-based method
-   - Metric-based method
+   - Metric-based method  
+     Siamese Network [1] , Prototype Network [2]
    - Optimization-based method 
+
+### References
+[1] Koch, Gregory, Richard Zemel, and Ruslan Salakhutdinov. "Siamese neural networks for one-shot image recognition." ICML Deep Learning Workshop. Vol. 2. 2015.  
+[2] Snell, Jake, Kevin Swersky, and Richard Zemel. "Prototypical networks for few-shot learning." Advances in Neural Information Processing Systems. 2017.  
+[3] 
