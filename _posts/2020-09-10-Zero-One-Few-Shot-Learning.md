@@ -34,14 +34,17 @@ tags:
 ## 3、Few-Shot Learning  
 ### Methods:
    - Model-based method  
-     Memory augmented model [3]
+     Memory augmented model [1]
    - Metric-based method  
-     Siamese Network [1] , Prototype Network [2]
+     Siamese Network [2] , Prototype Network [3], Match Network [4] 
    - Optimization-based method  
-     Learn a model to reach a good parameter status (compared to directly use related model or randomly initialized model) for finetuning in expectance of obtaining better performance.
+     Learn a model to reach a good parameter status (compared to directly use related model or randomly initialized model) for finetuning in expectance of obtaining better performance.  
+     Methods: Model-agnostic meta-learning [5]
+
 
 ### References
-[1] Koch, Gregory, Richard Zemel, and Ruslan Salakhutdinov. "Siamese neural networks for one-shot image recognition." ICML Deep Learning Workshop. Vol. 2. 2015.  
-[2] Snell, Jake, Kevin Swersky, and Richard Zemel. "Prototypical networks for few-shot learning." Advances in Neural Information Processing Systems. 2017.  
-[3] Santoro A, Bartunov S, Botvinick M, et al. One-shot learning with memory-augmented neural networks[J]. arXiv preprint arXiv:1605.06065, 2016.  
-[4] 
+[1] Santoro A, Bartunov S, Botvinick M, et al. One-shot learning with memory-augmented neural networks[J]. arXiv preprint arXiv:1605.06065, 2016. 
+[2] Koch, Gregory, Richard Zemel, and Ruslan Salakhutdinov. "Siamese neural networks for one-shot image recognition." ICML Deep Learning Workshop. Vol. 2. 2015.  
+[3] Snell, Jake, Kevin Swersky, and Richard Zemel. "Prototypical networks for few-shot learning." Advances in Neural Information Processing Systems. 2017.   
+[4] Oriol Vinyals, Charles Blundell, Tim Lillicrap, Daan Wierstra, et al. Matching networks for one shot learning. In Advances in Neural Information Processing Systems, pages 3630–3638, 2016.  
+[5] Finn, Chelsea, Pieter Abbeel, and Sergey Levine. "Model-agnostic meta-learning for fast adaptation of deep networks." Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017.
