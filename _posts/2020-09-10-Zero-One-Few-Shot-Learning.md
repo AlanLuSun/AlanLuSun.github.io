@@ -40,9 +40,19 @@ tags:
      Learn a model to reach a good parameter status (compared to directly use related model or randomly initialized model) for finetuning in expectance of obtaining better performance.  
      Methods: Model-agnostic meta-learning [5]
 
+### Loss functions
+  - Cross entropy loss  
+    $L = Ylog(P) + (1-Y)log(1-P)$
+  - Contrasive loss  
+    $L = (1-Y)\frac{1}{2}D^{2} + Y\frac{1}{2}\{max(0, m-D)\}^2$  
+    where $D$ is the distance function acted for embeddings. So the loss will decrease the distance D when the samples are from the same class, on the other hand when they are dissimilar it will try to increase D with a certain margin m. The margin purpose is to neglect samples that have larger distance than m, since we only want to focus on dissimilar samples that appear to be close.
+  - Triplet loss  
+    $L = max(D(X, X^{+}) - D(X, X^{-}) + m, 0)$
+
+
 ### Dataset:
-   - [Omniglot](https://github.com/brendenlake/omniglot)
-   - 
+   - [Omniglot](https://github.com/brendenlake/omniglot) [6], the few-shot version of MNIST.
+   - Mini-ImageNet [4]
 
 
 ### References
@@ -50,7 +60,9 @@ tags:
 [2] Koch, Gregory, Richard Zemel, and Ruslan Salakhutdinov. "Siamese neural networks for one-shot image recognition." ICML Deep Learning Workshop. Vol. 2. 2015.  
 [3] Snell, Jake, Kevin Swersky, and Richard Zemel. "Prototypical networks for few-shot learning." Advances in Neural Information Processing Systems. 2017.   
 [4] Oriol Vinyals, Charles Blundell, Tim Lillicrap, Daan Wierstra, et al. Matching networks for one shot learning. In Advances in Neural Information Processing Systems, pages 3630–3638, 2016.  
-[5] Finn, Chelsea, Pieter Abbeel, and Sergey Levine. "Model-agnostic meta-learning for fast adaptation of deep networks." Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017.
+[5] Finn, Chelsea, Pieter Abbeel, and Sergey Levine. "Model-agnostic meta-learning for fast adaptation of deep networks." Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017.  
+[6] Lake, Brenden, et al. “One shot learning of simple visual concepts.” Proceedings of the Annual Meeting of the Cognitive Science Society. Vol. 33. No. 33. 2011.  
+[7] Hoffer, Elad, and Nir Ailon. “Deep metric learning using triplet network.” International Workshop on Similarity-Based Pattern Recognition. Springer, Cham, 2015.
 
 
 
