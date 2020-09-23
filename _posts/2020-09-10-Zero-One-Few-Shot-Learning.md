@@ -35,7 +35,7 @@ tags:
    - Model-based method  
      Memory augmented model [1]
    - Metric-based method  
-     Siamese Network [2] , Prototype Network [3], Match Network [4] 
+     Siamese Network [2] , Prototype Network [3], Matching Network [4] 
    - Optimization-based method  
      Learn a model to reach a good parameter status (compared to directly use related model or randomly initialized model) for finetuning in expectance of obtaining better performance.  
      Methods: Model-agnostic meta-learning [5]
@@ -46,7 +46,7 @@ tags:
   - Contrasive loss  
     $L = (1-Y)\frac{1}{2}D^{2} + Y\frac{1}{2}\{max(0, m-D)\}^2$  
     where $D$ is the distance function acted for embeddings. So the loss will decrease the distance D when the samples are from the same class, on the other hand when they are dissimilar it will try to increase D with a certain margin m. The margin purpose is to neglect samples that have larger distance than m, since we only want to focus on dissimilar samples that appear to be close.
-  - Triplet loss  
+  - Triplet loss [7]  
     $L = max(D(X, X^{+}) - D(X, X^{-}) + m, 0)$
 
 
