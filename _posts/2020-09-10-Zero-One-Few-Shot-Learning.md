@@ -33,9 +33,12 @@ tags:
 
 ### Methods:
    - Model-based method  
-     Memory augmented model [1]
+     Memory augmented model [1] (use relation/similarity network in replace of pre-defined distance metric like [2-4, 7])
    - Metric-based method  
-     Siamese Network [2] , Prototype Network [3], Matching Network [4] 
+     - Siamese Network [2] (pairwise comparator + predefined distance metric)
+     - Triplet Network [7] (pairwise comparator + predefined metric)
+     - Matching Network [3] (multi-class comparator + predefined metric)
+     - Prototype Network [4] (multi-class comparator + predefined metric) 
    - Optimization-based method  
      Learn a model to reach a good parameter status (compared to directly use related model or randomly initialized model) for finetuning in expectance of obtaining better performance.  
      Methods: Model-agnostic meta-learning [5]
@@ -55,11 +58,16 @@ tags:
    - Mini-ImageNet [4]
 
 
+### Useful links:
+  - [Tutorial about few-shot leanring and meta-learning I](https://www.borealisai.com/en/blog/tutorial-2-few-shot-learning-and-meta-learning-i/)
+  - [Tutorial about few-shot leanring and meta-learning II](https://www.borealisai.com/en/blog/tutorial-3-few-shot-learning-and-meta-learning-ii/)
+
+
 ### References
 [1] Santoro A, Bartunov S, Botvinick M, et al. One-shot learning with memory-augmented neural networks[J]. arXiv preprint arXiv:1605.06065, 2016. 
-[2] Koch, Gregory, Richard Zemel, and Ruslan Salakhutdinov. "Siamese neural networks for one-shot image recognition." ICML Deep Learning Workshop. Vol. 2. 2015.  
-[3] Snell, Jake, Kevin Swersky, and Richard Zemel. "Prototypical networks for few-shot learning." Advances in Neural Information Processing Systems. 2017.   
-[4] Oriol Vinyals, Charles Blundell, Tim Lillicrap, Daan Wierstra, et al. Matching networks for one shot learning. In Advances in Neural Information Processing Systems, pages 3630–3638, 2016.  
+[2] Koch, Gregory, Richard Zemel, and Ruslan Salakhutdinov. "Siamese neural networks for one-shot image recognition." ICML Deep Learning Workshop. Vol. 2. 2015.     
+[3] Oriol Vinyals, Charles Blundell, Tim Lillicrap, Daan Wierstra, et al. Matching networks for one shot learning. In Advances in Neural Information Processing Systems, pages 3630–3638, 2016.  
+[4] Snell, Jake, Kevin Swersky, and Richard Zemel. "Prototypical networks for few-shot learning." Advances in Neural Information Processing Systems. 2017.  
 [5] Finn, Chelsea, Pieter Abbeel, and Sergey Levine. "Model-agnostic meta-learning for fast adaptation of deep networks." Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017.  
 [6] Lake, Brenden, et al. “One shot learning of simple visual concepts.” Proceedings of the Annual Meeting of the Cognitive Science Society. Vol. 33. No. 33. 2011.  
 [7] Hoffer, Elad, and Nir Ailon. “Deep metric learning using triplet network.” International Workshop on Similarity-Based Pattern Recognition. Springer, Cham, 2015.
