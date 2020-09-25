@@ -32,16 +32,18 @@ tags:
   Few-shot learning refers to understand new concepts from only a *few* examples.
 
 ### Methods:
-   - Model-based method  
-     Memory augmented model [1] (use relation/similarity network in replace of pre-defined distance metric like [2-4, 7])
-   - Metric-based method  
-     - Siamese Network [2] (pairwise comparator + predefined distance metric)
-     - Triplet Network [7] (pairwise comparator + predefined metric)
-     - Matching Network [3] (multi-class comparator + predefined metric)
-     - Prototype Network [4] (multi-class comparator + predefined metric) 
-   - Optimization-based method  
-     Learn a model to reach a good parameter status (compared to directly use related model or randomly initialized model) for finetuning in expectance of obtaining better performance.  
-     Methods: Model-agnostic meta-learning [5]
+   - Metric-based method (Prior knowledge about similarity)  
+     - Siamese Network (Koch et al., 2015) [2] (pairwise comparator + predefined distance metric)
+     - Triplet Network (Hoffer & Ailon, 2015) [7] (pairwise comparator + predefined metric)
+     - Matching Network (Oriol et al., 2016) [3] (multi-class comparator + predefined metric)
+     - Prototype Network (Snell et al., 2017) [4] (multi-class comparator + predefined metric)  
+     - Relation Networks (Santoro et al., 2016) [1] (use relation/similarity network in replace of pre-defined distance metric like [2-4, 7])
+   - Optimization-based method (Prior knowledge about learning)  
+     Learn a model with a good parameter status (compared to directly use related model or randomly initialized model) to be easier to finetune or adapt.  
+     Methods: 
+     - Model-agnostic meta-learning (Finn & Levine, 2017) [5]
+   - Data-based method (Prior knowledge about data)  
+    1) Lean a generative model for family of classes or 2) Learn to synthesize new examples and train with augmented data  
 
 ### Loss functions
   - Cross entropy loss  
