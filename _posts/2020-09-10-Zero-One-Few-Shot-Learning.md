@@ -31,7 +31,7 @@ tags:
 ### Definition:  
   Few-shot learning refers to understand new concepts from only a *few* examples.
 
-### Methods:
+### A Taxonomy of Methods:
    - Metric-based method (Prior knowledge about similarity)  
      - Siamese Network (Koch et al., 2015) [2] (pairwise comparator + predefined distance metric)
      - Triplet Network (Hoffer & Ailon, 2015) [7] (pairwise comparator + predefined metric)
