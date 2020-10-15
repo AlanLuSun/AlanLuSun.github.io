@@ -46,6 +46,7 @@ $$
 **Step 2:** (optional) compute prior  
 
 $$L_{ss}L^{\text{T}}_{ss} = K_{ss}$$  
+
 $$f_{prior} = \mu_s + L_{ss}\mathcal{N}(0, I)$$
 
 where $L_{ss}$ can be obtained using Cholesky decomposition and $\mu_s$ is unknown so far (however we can assume to be zero here to visualize the $f_{prior}$). $f_{prior}$ has the size of $N \times 1$.  
