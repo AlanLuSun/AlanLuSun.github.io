@@ -45,7 +45,7 @@ $$
 **Step 1:** compute variance $K_{ss}$ for testing data, $K_{ss} = e^{-\frac{1}{2p}(X_2 \ominus X_2)}$, with the size of $N \times N$.  
 **Step 2:** (optional) compute prior  
 
-$$L_{ss}L^{\text{T}}_{ss} = K_{ss}$$  
+$$L_{ss}L^{\text{T}}_{ss} = K_{ss}$$
 
 $$f_{prior} = \mu_s + L_{ss}\mathcal{N}(0, I)$$
 
