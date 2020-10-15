@@ -61,7 +61,8 @@ $$LL_{s} = K_s$$
 We can obtain $L_{s}=linearSolve(L, K_s)$, with the size of $M \times N$.  
 **Step 5:** compute the mean at test points
 
-$$LL'=y$$  
+$$LL'=y$$
+
 $$\mu_s = L^{\text{T}}_sL'$$
 
 where $\mu_s$ has the size of $N \times 1$.  
@@ -69,20 +70,21 @@ where $\mu_s$ has the size of $N \times 1$.
 
 $$L'_{ss}L'^{\text{T}}_{ss} = K_{ss}-L^{\text{T}}_sL_{s}$$
 
-So that $L'_{ss} = CholeskyDecom(K_{ss}-L^{\text{T}}_{s}L_{s})$, with the size of $N \times N$. The posterior function is
+So that $L{'}_{ss} = CholeskyDecom(K_{ss}-L^{\text{T}}_{s}L_{s})$, with the size of $N \times N$. The posterior function is
 
 $$f_{post} = \mu_s + L'_{ss}\mathcal{N}(0, I)$$
 
 The standard deviation can be computed by
 
 $$s2=diag(K_{ss}) - diag(L^{\text{T}}_sL_s)=diag(K_{ss}-L^{\text{T}}_sL_{s})$$  
+
 $$stdv = sqrt(s2)$$
 
-$diag(.)$ means utilizing the diagnal elements to form a vector so that $s2$ has the size of $N \times 1$. $stdv$ is the computed standard diviation. The oscillation of posterior function can be written as
+$diag(.)$ means utilizing the diagnal elements to form a vector so that $s2$ has the size of $N \times 1$. $stdv$ is the computed standard diviation. The oscillation range of posterior function can be written as
 
 $$\mu_s \pm j*stdv$$
 
-For example, $\mu_s \pm 1*stdv$, $\mu_s \pm 2*stdv$, $\mu_s \pm 3*stdv$, etc.
+For example, $\mu_{s} \pm 1*stdv$, $\mu_{s} \pm 2*stdv$, $\mu_{s} \pm 3*stdv$, etc.
 
 
 
