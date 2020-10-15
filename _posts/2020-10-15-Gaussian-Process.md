@@ -1,7 +1,7 @@
 ---
 title: Gaussian Process
-date: 2020-09-10
-permalink: /posts/2020-10-15-Gaussian Process/
+date: 2020-10-15
+permalink: /posts/2020-10-15-Gaussian-Process/
 excerpt: Using Gaussian Process for prediction
 tags:
   - Learning Notes
