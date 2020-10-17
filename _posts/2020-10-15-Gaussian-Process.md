@@ -22,10 +22,10 @@ Before introducing the algorithm, we first define the squared exponential kernel
 
 $$
 k(A, B) = e^{-\frac{1}{2p}(a \ominus b)}= \left[ \begin{matrix}
-  e^{-\frac{1}{2p}\|a_1 - b_1\|^2} & e^{-\frac{1}{2p}\|a_1 - b_2\|^2} & \cdots & e^{-\frac{1}{2p}\|a_1 - b_n\|^2} \\
-  e^{-\frac{1}{2p}\|a_2 - b_1\|^2} & e^{-\frac{1}{2p}\|a_2 - b_2\|^2} & \cdots & e^{-\frac{1}{2p}\|a_2 - b_n\|^2} \\
+  e^{-\frac{1}{2p}{\|a_1 - b_1\|}^2} & e^{-\frac{1}{2p}{\|a_1 - b_2\|}^2} & \cdots & e^{-\frac{1}{2p}{\|a_1 - b_n\|}^2} \\
+  e^{-\frac{1}{2p}{\|a_2 - b_1\|}^2} & e^{-\frac{1}{2p}{\|a_2 - b_2\|}^2} & \cdots & e^{-\frac{1}{2p}{\|a_2 - b_n\|}^2} \\
   \cdots        & \cdots        & \cdots & \cdots        \\
-  e^{-\frac{1}{2p}\|a_m - b_1\|^2} & e^{-\frac{1}{2p}\|a_m - b_2\|^2} & \cdots & e^{-\frac{1}{2p}\|a_m - b_n\|^2} 
+  e^{-\frac{1}{2p}{\|a_m - b_1\|}^2} & e^{-\frac{1}{2p}{\|a_m - b_2\|}^2} & \cdots & e^{-\frac{1}{2p}{\|a_m - b_n\|}^2} 
 \end{matrix} \right]
 $$
 
