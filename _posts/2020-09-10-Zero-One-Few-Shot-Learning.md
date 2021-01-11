@@ -56,8 +56,8 @@ tags:
 
 
 ### Dataset:
-   - [Omniglot](https://github.com/brendenlake/omniglot) [6], the few-shot version of MNIST.
-   - Mini-ImageNet [4]
+   - [Omniglot](https://github.com/brendenlake/omniglot) [6], the few-shot version of MNIST. This dataset has 1623 characters from 50 alphabets. In each class, there are 20 samples drawn by 20 peoples. Each image has size of 105 x 105.
+   - Mini-ImageNet [4]. This dataset has 60000 RGB images from 100 classes and the image resolution is 84 x 84.
 
 
 ### Useful links:
