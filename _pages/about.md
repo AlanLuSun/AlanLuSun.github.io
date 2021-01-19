@@ -19,7 +19,7 @@ redirect_from:
 
 Awards and Honors
 ===  
-*Outstanding Graduate Student of Shanghai*, 2020-3.  
+*Outstanding Graduate Student in Shanghai*, 2020-3.  
 
 ---
 *National Scholarship* for graduate student, 2019-9.  
