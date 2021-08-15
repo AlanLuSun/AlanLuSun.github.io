@@ -60,9 +60,9 @@ Professional Activity
 ===
 **Journal Services**  
 Served to review the manuscripts including
-- IEEE Transactions on Image Processing (IEEE TIP)  
 - International Journal of Computer Vision (IJCV)  
-- IEEE Computational Intelligence Magazine (IEEE CIM)
+- IEEE Transactions on Image Processing (IEEE TIP)    
+- IEEE Computational Intelligence Magazine (IEEE CIM)  
 - Pattern Recognition (PR)
 - Journal of Visual Communication and Image Representation (JVCIR)
 - IET Image Processing (IET-IPR)
