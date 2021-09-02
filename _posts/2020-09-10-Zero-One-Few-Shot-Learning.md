@@ -42,10 +42,11 @@ tags:
    - Optimization-based method (Prior knowledge about learning)  
      Learn a model with a good parameter status (compared to directly use related model or randomly initialized model) to be easier to finetune or adapt.  
      Methods: 
+     - Bayesian approach [8]  
      - Model-agnostic meta-learning (MAML) (Finn & Levine, 2017) [5]
    - Data-based method (Prior knowledge about data)  
     1) Lean a generative model for family of classes or 2) Learn to synthesize new examples and train with augmented data
-     - Bayesian approach [8]  
+      
 
 ### Loss functions
   - Cross entropy loss  
