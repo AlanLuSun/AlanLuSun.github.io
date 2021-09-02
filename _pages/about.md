@@ -59,7 +59,7 @@ Awards and Honors
 Professional Activity  
 ===
 **Journal Services**  
-Served to review the manuscripts including
+Served to review the manuscripts including  
 - International Journal of Computer Vision (IJCV)  
 - IEEE Transactions on Image Processing (IEEE TIP)    
 - IEEE Computational Intelligence Magazine (IEEE CIM)  

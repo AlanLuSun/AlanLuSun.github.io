@@ -12,11 +12,12 @@ tags:
 
 ## 1、Zero-shot Learning  
 ### Problem definition:  
-   Learning a model to work on unseen data when training and testing classes are disjoint. Taking the task of one-shot object classification as an example, when training an object classifier, there is no training samples of target classes. While in testing phase, we expect the object classifier could recognize the unseen target object to be a new class.
+   Learning a model to work on unseen data when training and testing classes are disjoint. Taking the task of zero-shot object classification as an example, when training an object classifier, there is no training samples of target classes. While in testing phase, we expect the object classifier could recognize the unseen target object to be a new class.
 
 ### Methods:
    - Attribute-based method [1]
-   - 
+   - Attribute Label Embedding (ALE) [2]
+   - Zero-shot Kernel Learning (ZSKL) [3]
 
 ### Dataset:
    - [Animals with Attributes (AWA)](https://cvml.ist.ac.at/AwA2/)
@@ -24,8 +25,8 @@ tags:
 
 ### References
 [1] Lampert, Christoph H., Hannes Nickisch, and Stefan Harmeling. "Learning to detect unseen object classes by between-class attribute transfer." In 2009 IEEE Conference on Computer Vision and Pattern Recognition, pp. 951-958. IEEE, 2009.  
-[2] 
-
+[2] Akata, Zeynep, Florent Perronnin, Zaid Harchaoui, and Cordelia Schmid. "Label-embedding for attribute-based classification." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 819-826. 2013.  
+[3] Zhang, Hongguang, and Piotr Koniusz. "Zero-shot kernel learning." In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, pp. 7670-7679. 2018.  
 
 ## 2、Few-shot Learning  
 ### Definition:  
@@ -41,9 +42,10 @@ tags:
    - Optimization-based method (Prior knowledge about learning)  
      Learn a model with a good parameter status (compared to directly use related model or randomly initialized model) to be easier to finetune or adapt.  
      Methods: 
-     - Model-agnostic meta-learning (Finn & Levine, 2017) [5]
+     - Model-agnostic meta-learning (MAML) (Finn & Levine, 2017) [5]
    - Data-based method (Prior knowledge about data)  
-    1) Lean a generative model for family of classes or 2) Learn to synthesize new examples and train with augmented data  
+    1) Lean a generative model for family of classes or 2) Learn to synthesize new examples and train with augmented data
+     - Bayesian approach [8]  
 
 ### Loss functions
   - Cross entropy loss  
@@ -73,6 +75,7 @@ tags:
 [5] Finn, Chelsea, Pieter Abbeel, and Sergey Levine. "Model-agnostic meta-learning for fast adaptation of deep networks." Proceedings of the 34th International Conference on Machine Learning-Volume 70. JMLR. org, 2017.  
 [6] Lake, Brenden, et al. “One shot learning of simple visual concepts.” Proceedings of the Annual Meeting of the Cognitive Science Society. Vol. 33. No. 33. 2011.  
 [7] Hoffer, Elad, and Nir Ailon. “Deep metric learning using triplet network.” International Workshop on Similarity-Based Pattern Recognition. Springer, Cham, 2015.
+[8] Fei-Fei, Li, Rob Fergus, and Pietro Perona. "One-shot learning of object categories." IEEE transactions on pattern analysis and machine intelligence 28, no. 4 (2006): 594-611.
 
 
 
