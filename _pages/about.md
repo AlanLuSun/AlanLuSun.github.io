@@ -69,6 +69,7 @@ Served to review the manuscripts including
 - Journal of Electronic Imaging (JEI)
 - Neural Processing Letters (NPL)
 - IEEE/CAA Journal of Automatica Sinica  
+- IEEE Robotics and Automation Letters (RA-L)
 
 ---  
 **Conference Services**  
