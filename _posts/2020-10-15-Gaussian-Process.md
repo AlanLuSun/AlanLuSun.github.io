@@ -71,7 +71,7 @@ where $\mu_s$ has the size of $N \times 1$.
 
 $$L'_{ss}L'^{\text{T}}_{ss} = K_{ss}-L^{\text{T}}_sL_{s}$$
 
-So that $L'_{ss} = CholeskyDecom(K_{ss} -)$  
+So that $L'_{ss} = CholeskyDecom(K_{ss})$  
 <!-- $L'_{ss}=CholeskyDecom(K_{ss}-L^{\text{T}}_sL_s)$, with the size of $N \times N$. The posterior function is  -->
 
 $$f_{post} = \mu_s + L'_{ss}\mathcal{N}(0, I)$$
