@@ -71,3 +71,21 @@ where $\mu_s$ has the size of $N \times 1$.
 
 $$L'_{ss}L'^{\text{T}}_{ss} = K_{ss}-L^{\text{T}}_sL_{s}$$
 
+$$f_{post} = \mu_s + L'_{ss}\mathcal{N}(0, I)$$
+
+The standard deviation can be computed by
+
+$$s2=diag(K_{ss}) - diag(L^{\text{T}}_sL_s)=diag(K_{ss}-L^{\text{T}}_sL_{s})$$  
+
+$$stdv = sqrt(s2)$$
+
+$diag(.)$ means utilizing the diagnal elements to form a vector so that $s2$ has the size of $N \times 1$. $stdv$ is the computed standard diviation. The oscillation range of posterior function can be written as
+
+$$\mu_s \pm j*stdv$$
+
+For example, ${\mu_{s}{\pm}1*stdv}$, ${\mu_{s}{\pm}2*stdv}$, ${\mu_{s}{\pm}3*stdv}$, etc.
+
+
+
+
+
