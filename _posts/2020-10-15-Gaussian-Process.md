@@ -83,7 +83,7 @@ $diag(.)$ means utilizing the diagnal elements to form a vector so that $s2$ has
 
 $$\mu_s \pm j*stdv$$
 
-For example, ${\mu_{s}{\pm}1*stdv}$, ${\mu_{s}{\pm}2*stdv}$, ${\mu_{s}{\pm}3*stdv}$, etc.
+For example, $\mu_{s}{\pm}1*stdv$, ${\mu_{s} \pm 2*stdv}$, ${\mu_{s}\pm 3*stdv}$, etc.
 
 
 
