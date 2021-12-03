@@ -85,7 +85,7 @@ $$\mu_s \pm j\cdot stdv$$
 
 For example, $\mu_s \pm 1\cdot stdv, \mu_s \pm 2\cdot stdv, \mu_s \pm 3\cdot stdv$, etc.  
 
-<!Not use symbol ** in latex as it will cause error when posting in github.io. For example, $\mu_{s} \pm 1*stdv$, $\mu_{s} \pm 2*stdv$, $\mu_{s} \pm 3*stdv$, etc.>
+<!-- Not use symbol ** in latex as it will cause error when posting in github.io. For example, $\mu_{s} \pm 1*stdv$, $\mu_{s} \pm 2*stdv$, $\mu_{s} \pm 3*stdv$, etc. -->
 
 
 
