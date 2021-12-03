@@ -81,7 +81,7 @@ $$stdv = sqrt(s2)$$
 
 $diag(.)$ means utilizing the diagnal elements to form a vector so that $s2$ has the size of $N \times 1$. $stdv$ is the computed standard diviation. The oscillation range of posterior function can be written as
 
-$$\mu_s \pm j*stdv$$
+$$\mu_s \pm j\cdot stdv$$
 
 For example, $\mu_s \pm 1\cdot stdv, \mu_s \pm 2\cdot stdv, \mu_s \pm 3\cdot stdv$, etc.  
 
