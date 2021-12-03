@@ -71,4 +71,3 @@ where $\mu_s$ has the size of $N \times 1$.
 
 $$L'_{ss}L'^{\text{T}}_{ss} = K_{ss}-L^{\text{T}}_sL_{s}$$
 
-So that ${{L'}_{ss}=CholeskyDecom(K_{ss}-L^{\text{T}}_{s}L_{s})}$, with the size of $N\times N$. The posterior function is
