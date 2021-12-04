@@ -6,6 +6,18 @@ excerpt: Using Gaussian Process for prediction
 tags:
   - Learning Notes
 ---
+<head>
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Config({
+            tex2jax: {
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+            inlineMath: [['$','$']],
+            displayMath: [ ['$$','$$']]
+            }
+        });
+    </script>
+</head>
 
 # Gaussian Process  
 *Author: Changsheng Lu (卢长胜)*
@@ -71,7 +83,7 @@ where $\mu_s$ has the size of $N \times 1$.
 
 $$L'_{ss}L'^{\text{T}}_{ss} = K_{ss}-L^{\text{T}}_sL_{s}$$
 
-So that $ = CholeskyDecom(K_{ss} - L^{\text{T}}_sL_s)$
+So that $L'_{ss}=CholeskyDecom(K_{ss}-L^{\text{T}}_sL_s)$
 
 <!-- $L'_{ss}=CholeskyDecom(K_{ss}-L^{\text{T}}_sL_s)$, with the size of $N \times N$. The posterior function is  -->
 
