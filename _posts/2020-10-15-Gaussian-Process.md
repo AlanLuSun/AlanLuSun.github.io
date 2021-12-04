@@ -75,6 +75,7 @@ so that
 $$L'_{ss}=CholeskyDecom(K_{ss}-L^{\text{T}}_sL_s)$$
 has the size of $N \times N$. Then, the posterior function is
 <!-- $L'_{ss}=CholeskyDecom(K_{ss}-L^{\text{T}}_sL_s)$, with the size of $N \times N$. The posterior function is  -->
+<!-- ' is not supported in inline-math latex in github.io-->
 
 $$f_{post} = \mu_s + L'_{ss}\mathcal{N}(0, I)$$
 
