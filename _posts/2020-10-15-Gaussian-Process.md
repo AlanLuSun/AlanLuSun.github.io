@@ -11,11 +11,13 @@ tags:
 *Author: Changsheng Lu (卢长胜)*
 
 ## Definition
-Gaussian process (GP) is a set of random variables following Gaussian distribution.  
+Gaussian process (GP) is a set of random variables following Gaussian distribution. Gaussian processes (GP) are *Bayesian nonparametric models* for continuous functions which allow for uncertainty quantification, interpretability, and the incorporation of expert knowledge. The theory and practice of GPs have flourished in the last decade, where researchers have looked into the expressiveness and efficiency of GP-based models and practitioners have applied them to a plethora of disciplines. In contrast, Bayesian Neural Network (BNN) is *Bayesian parametric model*.
+
 
 ## Gaussian process for machine learning  
 Essentially, it uses the correlation between training data and test data to model the prediction of test data, and each prediction is subject to a Gaussian distribution.  
-- Tutorial can be found [here](https://katbailey.github.io/post/gaussian-processes-for-dummies/) 
+- Tutorial can be found [here](https://katbailey.github.io/post/gaussian-processes-for-dummies/)  
+- [Bayessian Optimization Book](https://bayesoptbook.com/)
 
 ## Algorithm
 Before introducing the algorithm, we first define the squared exponential kernel $k$:
