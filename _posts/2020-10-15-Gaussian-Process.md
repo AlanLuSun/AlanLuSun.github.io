@@ -17,6 +17,7 @@ Gaussian process (GP) is a set of random variables following Gaussian distributi
 ## Gaussian process for machine learning  
 Essentially, it uses the correlation between training data and test data to model the prediction of test data, and each prediction is subject to a Gaussian distribution.  
 - Tutorial can be found [here](https://katbailey.github.io/post/gaussian-processes-for-dummies/)  
+- Tutorial & PPT & Code [here](https://github.com/GAMES-UChile/The_Art_of_Gaussian_Processes)
 - [Bayessian Optimization Book](https://bayesoptbook.com/)
 
 ## Algorithm
