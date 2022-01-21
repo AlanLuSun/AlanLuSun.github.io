@@ -76,7 +76,10 @@ Served to review the manuscripts including
 
 ---  
 **Conference Services**  
-Served to review the manuscripts of AAAI 2020, AAAI 2019, CVPR 2018 Workshop, ICMLA (2017, 2018), ICONIP 2018.
+Served to review the manuscripts including  
+- CVPR
+- AAAI
+- ICIP / ICONIP / ICMLA
 
 [[go top](https://alanlusun.github.io/)] 
 
