@@ -69,7 +69,6 @@ Served to review the manuscripts including
 - Pattern Recognition (PR)
 - Journal of Visual Communication and Image Representation (JVCIR)
 - IET Image Processing (IET-IPR)
-- Journal of Electronic Imaging (JEI)
 - Neural Processing Letters (NPL)
 - IEEE/CAA Journal of Automatica Sinica  
 - IEEE Robotics and Automation Letters (RA-L)
