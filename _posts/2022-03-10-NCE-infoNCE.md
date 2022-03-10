@@ -29,7 +29,9 @@ The infoNCE's formulation is
 $L_{infoNCE}=-E_{X} \log \frac{f_{k}(x_{t+k}, c_t)}{\sum_{x_{j} \in X} f_{k}(x_{j}, c_{t})}$  
 where $(x_{t+k}, c_t)$ is a postive pair, $(x_{j}, c_{t}), j=1,2,\cdots, |X|$ are negative pairs. $f_{k}(x_{t+k}, c_t)=\exp(.)$ is the model output. 
 
-CPC is used in language models which improves the feature representation ability by measuring a repres feature's prediction ability over following words. *A good repres feature should preserve the important information contained in raw data while also have good prediction ability (for subsequent words)*, e.g., knowing several first words in a sentence will result in a guess for subsequent words. In [4], CPC is formed by $f_{k}(x_{t+k}, c_t)=\exp(z^{T}_{t+k}W_{k}c_{t})$, where $z_{t+k}=g_{encoder}(x_{t+k})$, and $W_{k}c_{t}$ is a guess for $z_{t+k}$ by using $t$-th time step's information $c_{t}$.
+CPC is used in language models which improves the feature representation ability by measuring a repres feature's prediction ability over following words. *A good repres feature should preserve the important information contained in raw data while also have good prediction ability (for subsequent words)*, e.g., knowing several first words in a sentence will result in a guess for subsequent words. In [4], CPC is formed by   
+$f_{k}(x_{t+k}, c_{t})=\exp(z^{T}_{t+k}W_{k}c_{t})$,   
+where $z_{t+k}=g_{encoder}(x_{t+k})$, and $W_{k}c_{t}$ is a guess for $z_{t+k}$ by using $t$-th time step's information $c_{t}$.
 
 
 ## Resources
