@@ -39,7 +39,7 @@ CPC is used in language models which improves the feature representation ability
 $$
 f_{k}(x_{t+k}, c_{t}) = \exp (z^{T}_{t+k}W_{k}c_{t})
 $$  
-where $z_{t+k}=g_{enc}(x_{t+k})$, and $W_{k}c_{t}$ is a guess for $z_{t+k}$ by using $t$-th time step's information $c_{t}$.
+where $z_{t+k}=g_{encoder}(x_{t+k})$, and $W_{k}c_{t}$ is a guess for $z_{t+k}$ by using $t$-th time step's information $c_{t}$.
 
 
 ## Resources
