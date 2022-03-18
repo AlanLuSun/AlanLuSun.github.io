@@ -20,6 +20,7 @@ redirect_from:
 Recent News
 === 
 - My first PhD paper about FSKD gets accepted by **CVPR'22**.
+- Our [High-quality Ellipse Detector](https://github.com/AlanLuSun/High-quality-ellipse-detection) gets accepted by **IEEE T-IP** and exceeds 300+ stars in github (rank top1 so far).
 
 
 Awards and Honors
