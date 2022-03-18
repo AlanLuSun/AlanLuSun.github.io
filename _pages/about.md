@@ -17,6 +17,11 @@ redirect_from:
 
 [[go top](https://alanlusun.github.io/)]
 
+Recent News
+=== 
+- My first PhD paper about FSKD gets accepted by **CVPR'22**.
+
+
 Awards and Honors
 ===  
 *Thesis award for master graduate student, awarded by Shanghai  Association of Automation (CAA), 2021-01-18  
