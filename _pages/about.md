@@ -25,7 +25,7 @@ Recent News
 
 Awards and Honors
 ===  
-*Thesis award for master graduate student, awarded by Shanghai  Association of Automation (CAA), 2021-01-18  
+*Thesis award for master graduate student, awarded by Shanghai  Association of Automation (CAA)*, 2021-01-18  
 
 ---
 *Outstanding Graduate Student in Shanghai*, 2020-3.  
