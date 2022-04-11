@@ -82,9 +82,9 @@ Served to review the manuscripts including
 ---  
 **Conference Services**  
 Served to review the manuscripts including  
-- CVPR
+- CVPR / ECCV
 - AAAI
-- ICIP / ICONIP / ICMLA
+- ICIP / IJCNN / ICONIP / ICMLA
 
 [[go top](https://alanlusun.github.io/)] 
 
