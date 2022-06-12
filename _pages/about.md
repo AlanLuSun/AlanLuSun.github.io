@@ -21,7 +21,7 @@ News
 === 
 - One research paper about [Few-shot Keypoint Detection (FSKD)](https://openaccess.thecvf.com/content/CVPR2022/html/Lu_Few-Shot_Keypoint_Detection_With_Uncertainty_Learning_for_Unseen_Species_CVPR_2022_paper.html) gets accepted by **CVPR'22**.
 - One co-authored paper about [industrial scene text detection](https://ieeexplore.ieee.org/abstract/document/9726175/) gets accepted by **IEEE TCSVT**.
-- Two papers about domain adaptation/transfer learning published in **ICONIP'18** and **Neurocomputing**.
+- Two papers about domain adaptation/transfer learning published in **ICONIP'18** and **Neurocomputing**. [[here](https://scholar.google.com/citations?user=NS-F3TcAAAAJ&hl=en)]
 - Our [High-quality Ellipse Detector](https://github.com/AlanLuSun/High-quality-ellipse-detection) gets accepted by **IEEE T-IP** and exceeds 300+ stars in github (rank top1 so far). We also have a version for [circle detection](https://github.com/AlanLuSun/Circle-detection).
 
 
