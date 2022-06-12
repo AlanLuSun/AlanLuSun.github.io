@@ -1,8 +1,8 @@
 ---
-title: "Industrial Scene Text Detection with Refined Feature-attentive Network"
+title: "Few-shot Keypoint Detection with Uncertainty Learning for Unseen Species"
 collection: publications
 permalink: /publication/2022-06-12-few-shot-keypoint-detection/
-excerpt: '> *>IEEE Transactions on Circuits and Systems for Video Technology (published)*<br>*>Tongkun Guan, Chaochen Gu, **Changsheng Lu**, Jingzheng Tu, Qi Feng, Kaijie Wu, Xinping Guan*<br>>Detecting the marking characters of industrial metal parts remains challenging due to low visual contrast, uneven illumination, corroded surfaces, and cluttered background of metal part images. In this paper, we propose a refined feature-attentive network (RFN) to solve the inaccurate localization problem.'
+excerpt: '> *>IEEE/CVF Conference on Computer Vision and Pattern Recognition*<br>*>Tongkun Guan, Chaochen Gu, **Changsheng Lu**, Jingzheng Tu, Qi Feng, Kaijie Wu, Xinping Guan*<br>>Detecting the marking characters of industrial metal parts remains challenging due to low visual contrast, uneven illumination, corroded surfaces, and cluttered background of metal part images. In this paper, we propose a refined feature-attentive network (RFN) to solve the inaccurate localization problem.'
 date: 2022-02-23
 venue: '--'
 #paperurl: 'https://ieeexplore.ieee.org/document/8296246/'
