@@ -9,13 +9,17 @@ venue: '--'
 #citation: 'Changsheng Lu, Siyu Xia, Wanming Huang, Ming Shao, Yun Fu. Circle Detection by Arc-support Line Segments. In: The 24rd IEEE International Conference on Image Processing (ICIP).'
 ---
 
-Journal:  
+Conference:  
 ===  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)
 
 Authors: 
 ===
 **Changsheng Lu**, [Piotr Koniusz](http://users.cecs.anu.edu.au/~koniusz/)
+
+Quickview:
+===  
+<img src="/images/pub-images/2022/fskd.png" width="60%" height="60%">
 
 Abstract: 
 ===
