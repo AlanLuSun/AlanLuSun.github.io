@@ -19,7 +19,7 @@ Authors:
 
 Quickview:
 ===  
-[<img src="/images/pub-images/2022/fskd.png" width="60%" height="60%">](https://openaccess.thecvf.com/content/CVPR2022/html/Lu_Few-Shot_Keypoint_Detection_With_Uncertainty_Learning_for_Unseen_Species_CVPR_2022_paper.html)  
+<img src="/images/pub-images/2022/fskd.png" width="60%" height="60%">  
 
 Abstract: 
 ===
