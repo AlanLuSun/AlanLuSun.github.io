@@ -2,7 +2,7 @@
 title: "Few-shot Keypoint Detection with Uncertainty Learning for Unseen Species"
 collection: publications
 permalink: /publication/2022-06-12-few-shot-keypoint-detection/
-excerpt: '> *>IEEE/CVF Conference on Computer Vision and Pattern Recognition*<br>*>**Changsheng Lu**, Piotr Koniusz*<br>>Detecting the marking characters of industrial metal parts remains challenging due to low visual contrast, uneven illumination, corroded surfaces, and cluttered background of metal part images. In this paper, we propose a refined feature-attentive network (RFN) to solve the inaccurate localization problem.'
+excerpt: '> *>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)*<br>*>**Changsheng Lu**, Piotr Koniusz*<br>>Current non-rigid object keypoint detectors perform well on a chosen kind of species and body parts, and require a large amount of labelled keypoints for training. Moreover, their heatmaps, tailored to specific body parts, cannot recognize novel keypoints (keypoints not labelled for training) on unseen species. In this paper, we propose a versatile Few-shot Keypoint Detection (FSKD) pipeline which could not only detect base keypoints but also the novel keypoints for unseen species.'
 date: 2022-02-23
 venue: '--'
 #paperurl: 'https://ieeexplore.ieee.org/document/8296246/'
@@ -11,11 +11,11 @@ venue: '--'
 
 Journal:  
 ===  
-IEEE Transactions on Circuits and Systems for Video Technology
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2022)
 
 Authors: 
 ===
-Tongkun Guan, Chaochen Gu, **Changsheng Lu**, Jingzheng Tu, Qi Feng, Kaijie Wu, Xinping Guan
+**Changsheng Lu**, [Piotr Koniusz](http://users.cecs.anu.edu.au/~koniusz/)
 
 Abstract: 
 ===
