@@ -85,7 +85,7 @@ Served to review the manuscripts including
 **Conference Services**  
 Served to review the manuscripts including  
 - CVPR / ECCV
-- AAAI
+- NeurIPS / AAAI
 - ICIP / IJCNN / ICONIP / ICMLA
 
 [[go top](https://alanlusun.github.io/)] 
