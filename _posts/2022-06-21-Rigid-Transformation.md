@@ -10,16 +10,70 @@ tags:
 *Author: Changsheng Lu (卢长胜)*
 
 ## Outline
-- Notations
-- Rigid Transformation
-- Pose Estimation
-- Camera Relocalization
+- [X] Notations
+- [X] Rigid Transformation
+- [X] Pose Estimation
+- [X] Camera Relocalization
 
 ## Notations
-Here comes notations, ...
+|             |  Definition |
+|:------------|:-----------:|
+| $SE(3)$     | Rigid transformations in 3D Euclidean space|
+| $R$         | Rotation matrix |
+| $t$         | Translation (homogeneous coordinate $[x, y, 1]^{T}$)
+| $P \in SE(3)$ | Pose (Orientation+Position) or rigid transformation |
 
 
 ## Rigid Transformation
+### Kinematics
+The pose $P$ of an object or a rigid transformation $T$ can be represented by a $4 \times 4$ matrix 
+$$
+T=\left[
+  \begin{matrix}
+    R & t \\
+    0 & 1
+  \end{matrix}
+  \right]_{4 \times 4}
+$$
+Namely, $T=[R|t]$, or $T \in SE(3)$, $P \in SE(3)$.
+
+
+**Coordinate system:**
+- world coordinate system
+- camera coordinate system
+- optical coordinate system (In many cases, it assumes to be same with camera coordinate system but in practice they are different.)
+- object coordinate system
+
+**Left multiplication rule:** $T=T^{n}\cdots T^{2}T^{1}$, if $T^i$ is the rigid transformation relative to same base coordinate system $O$. The transformation sequence is $T^{1},T^{2},\cdots,T^{n}$.
+
+**Right multiplication rule:** $T=T^{1}\cdots T^{n-1}T^{n}$, if $T^i$ is the rigid transformation relative to previous pose (or previous coordinate system $O_{i-1}$). The transformation sequence is $T^{1},T^{2},\cdots,T^{n}$.
+
+**Inverse of rigid transformation:** Assume $T=[R|t]$, then its inverse is $T^{-1}=[R^{-1}|-R^{-1}t]$. This could be easily proved by computing below linear system 
+$$
+XT=I \\
+X=T^{-1}=\left[
+  \begin{matrix}
+    R^{-1} & -R^{-1}t \\
+    0      & 1
+  \end{matrix}
+  \right]
+$$
+It should note that, the inverse of rigid transformation $X$ can also be decomposed to *a translation transformation* followed by *a rotation transformation* as follows:
+$$
+X=\left[
+  \begin{matrix}
+    R^{-1} & 0 \\
+    0      & 1
+  \end{matrix}
+  \right]
+  \left[
+  \begin{matrix}
+    I & -t \\
+    0 & 1
+  \end{matrix}
+  \right]
+$$
+This meets our direct imagination as we could firstly move object to a point in opposite direction and then rotate the object.
 
 
 
@@ -44,40 +98,6 @@ Inherently, camera relocalization is also a sub-problem of pose estimation. The 
 
 
 
-
-
-
-## Motivation
-The softmax is nice normalizer whose formulation is $p=\exp(f^{\theta}(x))/\sum_{i}^{C}\exp(f^{\theta}_{i}(x))$. However, when $C$ is tremendous, it requires much time to compute the summation of all classes' activations. To save time, the researchers propose to use *Noise Contrastive Estimation (NCE)* which samples negative noise for contrastive learning, thus we only need to compute the $c$-th activations for both postive sample and negative samples.
-
-The key idea behind NCE [1,2,3] and also the following infoNCE [4] aim to maximize the activation value (or signal value) from postive samples while surpressing those values (or noise values) from negative samples, which forms contrastive learning. This has a solid mathematical proof in [Noise Contrastive Estimation](https://leimao.github.io/article/Noise-Contrastive-Estimation/).
-
-
-## Mathematical Formulation for NCE Loss
-$$
-J(\theta)=E_{w\sim P_{d}(w)}[\log \sigma(\triangle f^{\theta}(w))] + kE_{w \sim P_{noise}(w)}[\log (1- \sigma(\triangle f^{\theta}(w)))]
-$$  
-where $\sigma=\frac{1}{1+e^{-1}}$ is the sigmoid function, $\triangle f^{\theta}(w) = f^{\theta}(w) - \log kP_{noise}(w)$. Its empirical form is  
-$$
-\hat{J}(\theta)=\frac{1}{m}\sum_{i=1}^{m} \log \sigma(\triangle f^{\theta}(w_i)) +\frac{k}{n}\sum_{j=1}^{n} \log (1- \sigma(\triangle f^{\theta}(w_j)))
-$$  
-where $m$ is the number of positive samples and $n$ is number of noise samples. $k$ is the draw number for noise.  
-
-Remarks: The former part of formulation is to maximize signal while the latter part is to supress noise, forming the contrastive learning.
-
-
-## The infoNCE and Contrastive Predictive Coding (CPC)
-The infoNCE's formulation is  
-$$
-L_{infoNCE}=-E_{X} \log \frac{f_{k}(x_{t+k}, c_t)}{\sum_{x_{j} \in X} f_{k}(x_{j}, c_{t})}
-$$  
-where $(x_{t+k}, c_t)$ is a postive pair, $(x_{j}, c_{t}), j=1,2,\cdots, |X|$ are negative pairs. $f_{k}(x_{t+k}, c_t)=\exp(.)$ is the model output. 
-
-CPC is used in language models which improves the feature representation ability by measuring a repres feature's prediction ability over following words. *A good repres feature should preserve the important information contained in raw data while also have good prediction ability (for subsequent words)*, e.g., knowing several first words in a sentence will result in a guess for subsequent words. In [4], CPC is formed by   
-$$
-f_{k}(x_{t+k}, c_{t}) = \exp (z^{T}_{t+k}W_{k}c_{t})
-$$  
-where $z_{t+k}=g_{encoder}(x_{t+k})$, and $W_{k}c_{t}$ is a guess for $z_{t+k}$ by using $t$-th time step's information $c_{t}$.
 
 
 ## Resources
