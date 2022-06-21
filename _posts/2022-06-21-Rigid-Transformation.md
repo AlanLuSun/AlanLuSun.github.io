@@ -16,6 +16,7 @@ tags:
 - [X] Camera Relocalization
 
 ## Notations
+
 |             |  Definition |
 |:------------|:-----------:|
 | $SE(3)$     | Rigid transformations in 3D Euclidean space|
@@ -26,7 +27,7 @@ tags:
 
 ## Rigid Transformation
 ### Kinematics
-The pose $P$ of an object or a rigid transformation $T$ can be represented by a $4 \times 4$ matrix 
+The pose $P$ of an object or a rigid transformation $T$ can be represented by a $4 \times 4$ matrix  
 $$
 T=\left[
   \begin{matrix}
@@ -34,7 +35,7 @@ T=\left[
     0 & 1
   \end{matrix}
   \right]_{4 \times 4}
-$$
+$$  
 Namely, $T=[R|t]$, or $T \in SE(3)$, $P \in SE(3)$.
 
 
@@ -48,7 +49,7 @@ Namely, $T=[R|t]$, or $T \in SE(3)$, $P \in SE(3)$.
 
 **Right multiplication rule:** $T=T^{1}\cdots T^{n-1}T^{n}$, if $T^i$ is the rigid transformation relative to previous pose (or previous coordinate system $O_{i-1}$). The transformation sequence is $T^{1},T^{2},\cdots,T^{n}$.
 
-**Inverse of rigid transformation:** Assume $T=[R|t]$, then its inverse is $T^{-1}=[R^{-1}|-R^{-1}t]$. This could be easily proved by computing below linear system 
+**Inverse of rigid transformation:** Assume $T=[R|t]$, then its inverse is $T^{-1}=[R^{-1}|-R^{-1}t]$. This could be easily proved by computing below linear system  
 $$
 XT=I \\
 X=T^{-1}=\left[
@@ -57,8 +58,8 @@ X=T^{-1}=\left[
     0      & 1
   \end{matrix}
   \right]
-$$
-It should note that, the inverse of rigid transformation $X$ can also be decomposed to *a translation transformation* followed by *a rotation transformation* as follows:
+$$  
+It should note that, the inverse of rigid transformation $X$ can also be decomposed to *a translation transformation* followed by *a rotation transformation* as follows:  
 $$
 X=\left[
   \begin{matrix}
@@ -72,7 +73,7 @@ X=\left[
     0 & 1
   \end{matrix}
   \right]
-$$
+$$  
 This meets our direct imagination as we could firstly move object to a point in opposite direction and then rotate the object.
 
 
