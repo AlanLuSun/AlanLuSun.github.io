@@ -19,10 +19,27 @@ tags:
 Here comes notations, ...
 
 
+## Rigid Transformation
+
+
+
+## Pose Estimation
+
+
+
 
 
 ## Camera Relocalization
-Camera relocalization task usually assumes the scene is given, the initial camera pose is given, and only the camera pose will change over time. Thus, we could estimate camera pose to realize camera relocalization, for example, calibrating camera pose to reference pose. Thus, we could estimate camera pose based on a pair of (reference image, current image) under such setting.
+**Camera relocalization** task usually assumes the scene is given, the initial camera pose is given, and only the camera pose will change over time. Thus, we could estimate camera pose to realize camera relocalization, for example, calibrating camera pose to reference pose. Thus, we could estimate camera pose based on a pair of (reference image, current image) under such setting.
+
+Inherently, camera relocalization is also a sub-problem of pose estimation. The *active viewpoint transfer* problem is exactly the *camera relocalization*.
+
+
+
+
+
+
+
 
 
 
