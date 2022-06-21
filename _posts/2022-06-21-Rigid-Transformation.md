@@ -1,6 +1,6 @@
 ---
 title: Rigid Transformation in Euclidean Space
-date: 2022-03-10
+date: 2022-06-20
 permalink: /posts/2022-06-21-Rigid-Transformation/
 excerpt: ""
 tags:
