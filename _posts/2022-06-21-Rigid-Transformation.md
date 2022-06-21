@@ -21,6 +21,13 @@ Here comes notations, ...
 
 
 
+## Camera Relocalization
+Camera relocalization task usually assumes the scene is given, the initial camera pose is given, and only the camera pose will change over time. Thus, we could estimate camera pose to realize camera relocalization, for example, calibrating camera pose to reference pose. Thus, we could estimate camera pose based on a pair of (reference image, current image) under such setting.
+
+
+
+
+
 ## Motivation
 The softmax is nice normalizer whose formulation is $p=\exp(f^{\theta}(x))/\sum_{i}^{C}\exp(f^{\theta}_{i}(x))$. However, when $C$ is tremendous, it requires much time to compute the summation of all classes' activations. To save time, the researchers propose to use *Noise Contrastive Estimation (NCE)* which samples negative noise for contrastive learning, thus we only need to compute the $c$-th activations for both postive sample and negative samples.
 
