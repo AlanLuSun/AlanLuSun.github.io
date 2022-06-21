@@ -24,7 +24,9 @@ Here comes notations, ...
 
 
 ## Pose Estimation
+**Ingredients:** 1) two images of same scene ($I^a, I^b$) (captured at two different camera poses); 2) depth maps ($D^a, D^b$); 3) camera intrinsic parameters ($K$); 4) two sets of corresponding keypoints ($p^a_1,\cdots,p^a_n$) and ($p^b_1,\cdots,p^b_n$); 5) relative pose $T\in SE(3)$ between two camera poses.
 
+**Tasks:** 1) The relative pose could be estimated when knowing remaining conditions; 2) The depth could be estimated when knowing remaining conditions.
 
 
 
