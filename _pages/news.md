@@ -7,6 +7,12 @@ redirect_from:
   - /resume
 ---
 
+~~**June 21~24, 2022**~~
+
+---
+- [ <font color="#AAAAFF" size="4.5" style="font-style:italic">IEEE/CVF Conference on Computer Vision and Pattern Recognition</font> ](https://cvpr2022.thecvf.com/) (CVPR 2022) will be held in June, New Orleans, Louisiana, USA. It is a hybrid conference this year and I will virtually attend to CVPR :).  
+<img src="https://alanlusun.github.io//images/news-images/2022/2022_0628_cvpr.png" width="80%" height="80%">
+
 ~~**July 14~19, 2019**~~
 
 ---
