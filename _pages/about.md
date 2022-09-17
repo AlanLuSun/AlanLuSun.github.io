@@ -72,6 +72,7 @@ Professional Activity
 ===
 **Journal Services**  
 Served to review the manuscripts including  
+- IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
 - International Journal of Computer Vision (IJCV)  
 - IEEE Transactions on Image Processing (IEEE TIP)    
 - IEEE Computational Intelligence Magazine (IEEE CIM)  
@@ -87,7 +88,7 @@ Served to review the manuscripts including
 Served to review the manuscripts including  
 - CVPR / ECCV
 - NeurIPS / AAAI
-- ICIP / IJCNN / ICONIP / ICMLA
+- ICIP / IJCNN / ACCV / ICONIP / ICMLA
 
 [[go top](https://alanlusun.github.io/)] 
 
