@@ -32,7 +32,7 @@ Awards and Honors
 [Outstanding reviewer for ECCV 2022](https://eccv2022.ecva.net/program/outstanding-reviewers/), 2022-10-19
 
 ---
-*Thesis award for master graduate student, awarded by Shanghai  Association of Automation (CAA)*, 2021-01-18  
+*Outstanding Thesis Award for master graduate student, awarded by Shanghai  Association of Automation (CAA)*, 2021-01-18  
 
 ---
 *Outstanding Graduate Student in Shanghai*, 2020-3.  
