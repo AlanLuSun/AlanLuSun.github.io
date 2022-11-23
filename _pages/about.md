@@ -13,7 +13,7 @@ redirect_from:
 
 <!-- >I look forward to starting a meaningful and wonderful Ph.D. period and proceeding with the corresponding exercise after my M.S. graduation in 2020. It would be very grateful for your passionate advice~~ -->  
 
->**My Reminder** [[Calendar](https://aideadlin.es/?sub=ML,CV,RO,CG)]  
+<!-- **My Reminder** [[Calendar](https://aideadlin.es/?sub=ML,CV,RO,CG)] --> 
 
 >**Mentorship & Collaboration:** From times to times, I mentor students and am passionate to collaborate with people on amazing research projects/ideas. *If you would like to collaborate with me, don't hesitate to drop me an email*. 
 
