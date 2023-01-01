@@ -89,7 +89,7 @@ Served to review the manuscripts including
 Served to review the manuscripts including  
 - CVPR / ECCV
 - NeurIPS / AAAI
-- ICIP / IJCNN / ACCV / ICONIP / ICMLA
+- ICIP / IJCNN / ACCV / ICONIP / ICMLA / ICASSP
 
 [[go top](https://alanlusun.github.io/)] 
 
