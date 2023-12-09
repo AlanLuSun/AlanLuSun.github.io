@@ -20,7 +20,10 @@ redirect_from:
 [[go top](https://alanlusun.github.io/)]
 
 News
-=== 
+===  
+- Our paper [``Detect Any Keypoints: An Efficient Light-weight Few-shot Keypoint Detector''](https://scholar.google.com/citations?user=NS-F3TcAAAAJ&hl=en) has been accepted to **AAAI** (the 38th Annual AAAI Conference on Artificial Intelligence)! 
+- One co-first authored paper about [Few-shot shape recognition (FSSD)](https://arxiv.org/abs/2312.01315) has been accepted to **WACV'24**. To our best knowledge, this is the first work in the field.
+- Two co-authored papers has been accepted to **IJCNN'23**.
 - One research paper about [Few-shot Keypoint Detection (FSKD)](https://openaccess.thecvf.com/content/CVPR2022/html/Lu_Few-Shot_Keypoint_Detection_With_Uncertainty_Learning_for_Unseen_Species_CVPR_2022_paper.html) gets accepted by **CVPR'22**.
 - Two co-authored papers get accepted by **ACCV'22** (Re. [Deep General Ellipse detection](https://github.com/One1h/ElDet)) and **ICONIP'22** (Re. Fast Stain Color Normalization). One co-authored paper about [industrial scene text detection](https://ieeexplore.ieee.org/abstract/document/9726175/) gets accepted by **IEEE TCSVT**.
 - Two papers about domain adaptation/transfer learning published in **ICONIP'18** and **Neurocomputing**. [[here](https://scholar.google.com/citations?user=NS-F3TcAAAAJ&hl=en)]
