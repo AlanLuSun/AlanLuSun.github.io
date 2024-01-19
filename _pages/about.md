@@ -21,7 +21,7 @@ redirect_from:
 
 News
 ===  
-- Our paper [``Detect Any Keypoints: An Efficient Light-weight Few-shot Keypoint Detector''](https://scholar.google.com/citations?user=NS-F3TcAAAAJ&hl=en) has been accepted to **AAAI** (the 38th Annual AAAI Conference on Artificial Intelligence)! 
+- Our paper [``Detect Any Keypoints: An Efficient Light-Weight Few-Shot Keypoint Detector''](https://scholar.google.com/citations?user=NS-F3TcAAAAJ&hl=en) has been accepted to **AAAI** (the 38th Annual AAAI Conference on Artificial Intelligence)! 
 - One co-first authored paper about [Few-shot shape recognition (FSSD)](https://arxiv.org/abs/2312.01315) has been accepted to **WACV'24**. To our best knowledge, this is the first work in the field.
 - Two co-authored papers (Re. [Diatom object detection & Shadow removal](https://scholar.google.com/citations?user=NS-F3TcAAAAJ&hl=en)) have been accepted to **IJCNN'23**.
 - One research paper about [Few-shot Keypoint Detection (FSKD)](https://openaccess.thecvf.com/content/CVPR2022/html/Lu_Few-Shot_Keypoint_Detection_With_Uncertainty_Learning_for_Unseen_Species_CVPR_2022_paper.html) gets accepted by **CVPR'22**.
