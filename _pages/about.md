@@ -90,9 +90,9 @@ Served to review the manuscripts including
 ---  
 **Conference Services**  
 Served to review the manuscripts including  
-- CVPR / ICCV / ECCV
-- NeurIPS / ICML / ICLR / AAAI
-- WACV / BMVC / ICIP / IJCNN / ACCV / ICONIP / ICMLA / ICASSP
+- CVPR, ICCV, ECCV
+- AAAI, NeurIPS, ICML, ICLR
+- WACV, BMVC, ICIP, IJCNN, ACCV, ICONIP, ICMLA, ICASSP
 
 [[go top](https://alanlusun.github.io/)] 
 
