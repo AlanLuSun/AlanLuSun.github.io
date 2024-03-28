@@ -20,7 +20,7 @@ Authors:
 
 Quickview:
 ===  
-<img src="/images/pub-images/2024/lwfskd.png" width="60%" height="60%">
+<img src="/images/pub-images/2024/lwfskd.png" width="100%" height="100%">
 
 Abstract: 
 ===
