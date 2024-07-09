@@ -15,12 +15,15 @@ redirect_from:
 
 <!-- **My Reminder** [[Calendar](https://aideadlin.es/?sub=ML,CV,RO,CG)] --> 
 
+>**Looking for Postdoc Opportunity:** I am looking for PostDoc opportunity. Kindly let me know if you are interested in working with me. Many thanks :)
+
 >**Mentorship & Collaboration:** From times to times, I mentor students and am passionate to collaborate with people on amazing research projects/ideas. *If you would like to collaborate with me, don't hesitate to drop me an email*. 
 
 [[go top](https://alanlusun.github.io/)]
 
 News
 ===  
+- Two papers with all *accept scores* are accepted to **ECCV 2024**! One paper is about *zero- and few-shot keypoint detection (Z-FSKD)* (**one of my best works**); another one is about *motion transfer with realistic apparel animation* co-authored with my colleague Rong Wang. I will attend ECCV 2024 in Milano, Italy.  
 - Our paper [``Detect Any Keypoints: An Efficient Light-Weight Few-Shot Keypoint Detector''](https://scholar.google.com/citations?user=NS-F3TcAAAAJ&hl=en) has been accepted to **AAAI** (the 38th Annual AAAI Conference on Artificial Intelligence)! 
 - One co-first authored paper about [Few-shot shape recognition (FSSD)](https://arxiv.org/abs/2312.01315) has been accepted to **WACV'24**. To our best knowledge, this is the first work in the field.
 - Two co-authored papers (Re. [Diatom object detection & Shadow removal](https://scholar.google.com/citations?user=NS-F3TcAAAAJ&hl=en)) have been accepted to **IJCNN'23**.
