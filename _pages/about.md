@@ -26,7 +26,7 @@ redirect_from:
 News
 ===  
 - Two papers are accepted to **ECCV 2024**! One paper is about *zero- and few-shot keypoint detection (Z-FSKD)* (**one of my best works**); another one is about *motion transfer with realistic apparel animation* co-authored with my colleague Rong Wang. I will attend ECCV 2024 in Milano, Italy.  
-- Our paper [``Detect Any Keypoints: An Efficient Light-Weight Few-Shot Keypoint Detector''](https://scholar.google.com/citations?user=NS-F3TcAAAAJ&hl=en) has been accepted to **AAAI'24** (the 38th Annual AAAI Conference on Artificial Intelligence)! 
+- Our paper [``Detect Any Keypoints: An Efficient Light-Weight Few-Shot Keypoint Detector''](https://ojs.aaai.org/index.php/AAAI/article/view/28180) has been accepted to **AAAI'24** (the 38th Annual AAAI Conference on Artificial Intelligence)! 
 - One co-first authored paper about [Few-shot shape recognition (FSSD)](https://arxiv.org/abs/2312.01315) has been accepted to **WACV'24**. To our best knowledge, this is the first work in the field.
 - Two co-authored papers (Re. [Diatom object detection & Shadow removal](https://scholar.google.com/citations?user=NS-F3TcAAAAJ&hl=en)) have been accepted to **IJCNN'23**.
 - One research paper about [Few-shot Keypoint Detection (FSKD)](https://openaccess.thecvf.com/content/CVPR2022/html/Lu_Few-Shot_Keypoint_Detection_With_Uncertainty_Learning_for_Unseen_Species_CVPR_2022_paper.html) gets accepted by **CVPR'22**.
