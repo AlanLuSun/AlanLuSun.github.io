@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
->**Looking for Postdoc Opportunity:** I am looking for PostDoc/Assi. Prof./Assi. Researcher opportunities. Kindly let me know if I am suited to the job and you are interested in working with me. Many thanks :)
+>**Looking for Job Opportunity:** I am looking for PostDoc/Assi. Prof./Assi. Researcher opportunities. Kindly let me know if I am suited to the job and you are interested in working with me. Many thanks :)
 
 >**Mentorship & Collaboration:** From times to times, I mentor students and am passionate to collaborate with people on amazing research projects/ideas. *If you would like to collaborate with me, don't hesitate to drop me an email*. 
 
