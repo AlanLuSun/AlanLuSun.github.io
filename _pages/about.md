@@ -102,10 +102,3 @@ Served to review the manuscripts including
 - WACV, BMVC, ICIP, IJCNN, ACCV, ICONIP, ICMLA, ICASSP
 
 [[go top](https://alanlusun.github.io/)] 
-
-
-For more information  
-===  
-Here is my CV [[English Version](https://alanlusun.github.io/files/CV_LuChangsheng_EN.pdf), [中文简历](https://alanlusun.github.io/files/CV_LuChangsheng_CN.pdf)].
-
-[[go top](https://alanlusun.github.io/)]
