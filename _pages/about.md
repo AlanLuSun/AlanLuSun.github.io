@@ -15,7 +15,7 @@ redirect_from:
 
 >He has wide research interests across computer vision, machine learning, artificial intelligence, and robotics. Particularly, he is interested in the theories and algorithms that may improve a robot or an intelligent device's peception, cognition and reasoning ability, which could empower the machine to see, think and conduct more like a human.  
 
->Currently, he is focusing on the research topics in **multimodal generic vision**, **keypoint detection**, **zero- and few-shot learning**, **foundation model**, and **transfer learning**.
+>Currently, he is focusing on the research topics in **multimodal generic vision**, **foundation model**, **keypoint detection**, **zero- and few-shot learning**, and **transfer learning**.
 
 <!-- >Previously, he was awarded the national scholarship for graduate student, and listed in the first term of Huawei F(X) future scientist program member and the outstanding undergraduate of Southeast University. He had a summer internship in Huawei Nanjing Research Institute in 2016. From Oct. 20, 2016, to May 1, 2017, he served as a part-time duty personnel in Joint Stars Technology CO., LTD, Nanjing, where he gained lots of knowledge about industrial standards and engineering implementation. -->  
 
