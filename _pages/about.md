@@ -27,6 +27,7 @@ redirect_from:
 
 News
 ===  
+- One paper about few-shot keypoint detection (FSKD) is accepted to **IJCV 2025**. Many thanks to Peter and Hao.
 - One co-authored & corresponding paper about contour based instance segmentation is accepted to **ICML 2025**. Congratulations to Jiawei!
 - Two papers are accepted to **ECCV 2024**! The first paper is about [zero- and few-shot keypoint detection (Z-FSKD)](https://arxiv.org/pdf/2409.19899). ***To our best knowledge, this is the first work in the field!*** Another paper is about [motion transfer with realistic apparel animation](https://arxiv.org/pdf/2407.11266) co-authored with my colleague Rong Wang. Congratulations to Rong! I will attend ECCV 2024 in Milano, Italy.  
 - Our paper [``Detect Any Keypoints: An Efficient Light-Weight Few-Shot Keypoint Detector''](https://ojs.aaai.org/index.php/AAAI/article/view/28180) has been accepted to **AAAI'24** (the 38th Annual AAAI Conference on Artificial Intelligence)! 
