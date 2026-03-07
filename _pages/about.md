@@ -27,6 +27,7 @@ redirect_from:
 
 News
 ===  
+- 1 x **CVPR'26** accepted. Congratulations to Haokun.
 - One paper about garment deformation transfer is accepted to **3DV 2026**. Congratulations to Rong!
 - Our paper [``Exploiting Class-agnostic Visual Prior for Few-shot Keypoint Detection''](https://rdcu.be/eZiCS) is accepted to **IJCV 2025**. Many thanks to Peter and Hao!
 - One co-authored & corresponding paper about contour based instance segmentation is accepted to **ICML 2025**. Congratulations to Jiawei!
