@@ -27,6 +27,7 @@ redirect_from:
 
 News
 ===  
+- An easy-to-use VLA framework **StarVLA** is opensourced. See [technique report](https://arxiv.org/pdf/2604.05014) & [codes at GitHub](https://github.com/starVLA/starVLA) (**2.5k+ stars**).
 - 1 x **CVPR'26**, 1 x **3DV'26** accepted. Congratulations to Haokun Gui, and Rong Wang.
 - Our paper [``Exploiting Class-agnostic Visual Prior for Few-shot Keypoint Detection''](https://rdcu.be/eZiCS) is accepted to **IJCV 2025**. Many thanks to Peter and Hao!
 - One co-authored & corresponding paper about contour based instance segmentation is accepted to **ICML 2025**. Congratulations to Jiawei!
