@@ -27,7 +27,7 @@ redirect_from:
 
 News
 ===  
-- 3 x **ECCV 2026** papers accepted! The first one is [``GKDT: General Keypoint Detection Transformer''](https://arxiv.org/abs/2607.00752), which contributes ***ONE highly practical model*** trying to solve all keypoint detection tasks including for human, animals, birds, fishes, vihecles, furniture, faces and hands, etc. The other two are [DMDR](https://arxiv.org/abs/2511.13649) (Distribution Matching Distillation meets Reinforcement Learning) and [OpenSubject](https://arxiv.org/abs/2512.08294) for image generation and manipulation. Congralutaions!
+- 3 x **ECCV 2026** papers accepted! The first one is [``GKDT: General Keypoint Detection Transformer''](https://arxiv.org/abs/2607.00752), which contributes ***ONE highly practical model*** trying to solve all keypoint detection tasks including for human, animals, birds, fishes, vihecles, furniture, faces and hands, etc. The other two are [DMDR](https://arxiv.org/abs/2511.13649) (Distribution Matching Distillation meets Reinforcement Learning) and [OpenSubject](https://arxiv.org/abs/2512.08294) for image generation and manipulation. Congralutaions.
 - An easy-to-use VLA framework **StarVLA** is opensourced. See [technique report](https://arxiv.org/pdf/2604.05014) & [codes at GitHub](https://github.com/starVLA/starVLA) (**2.5k+ stars**). Congratulations to Jinhui Ye and co-authors.
 - 1 x **CVPR'26**, 1 x **3DV'26** papers accepted. Congratulations to Haokun Gui, and Rong Wang.
 - Our paper [``Exploiting Class-agnostic Visual Prior for Few-shot Keypoint Detection''](https://rdcu.be/eZiCS) is accepted to **IJCV 2025**. Many thanks to Peter and Hao!
