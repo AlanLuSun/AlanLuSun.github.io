@@ -27,9 +27,10 @@ redirect_from:
 
 News
 ===  
+- 2 x **NeurIPS 2026** papers accepted, which are [VLAct](https://github.com/starVLA/VLAct/) and [AHPA for diffusion transformers](https://arxiv.org/abs/2605.03317). Congratulations to Senqiao and Yexin.
 - 3 x **ECCV 2026** papers accepted! The first one is [``GKDT: General Keypoint Detection Transformer''](https://arxiv.org/abs/2607.00752), which contributes ***ONE highly practical model*** trying to solve all keypoint detection tasks including for human, animals, birds, fishes, vihecles, furniture, faces and hands, etc. The other two are [DMDR](https://arxiv.org/abs/2511.13649) (Distribution Matching Distillation meets Reinforcement Learning) and [OpenSubject](https://arxiv.org/abs/2512.08294) for image generation and manipulation. Congralutaions.
 - An easy-to-use VLA framework **StarVLA** is opensourced. See [technique report](https://arxiv.org/pdf/2604.05014) & [codes at GitHub](https://github.com/starVLA/starVLA) (**2.5k+ stars**). Congratulations to Jinhui Ye and co-authors.
-- 1 x **CVPR'26**, 1 x **3DV'26** papers accepted. Congratulations to Haokun Gui, and Rong Wang.
+- 1 x **CVPR'26**, 1 x **3DV'26** papers accepted. Congratulations to Haokun Gui and Rong Wang.
 - Our paper [``Exploiting Class-agnostic Visual Prior for Few-shot Keypoint Detection''](https://rdcu.be/eZiCS) is accepted to **IJCV 2025**. Many thanks to Peter and Hao!
 - One co-authored & corresponding paper about contour based instance segmentation is accepted to **ICML 2025**. Congratulations to Jiawei!
 - 2 x **ECCV 2024** papers accepted! The first paper is about [zero- and few-shot keypoint detection (Z-FSKD)](https://arxiv.org/pdf/2409.19899). ***To our best knowledge, this is the first work in the field!*** Another paper is about [motion transfer with realistic apparel animation](https://arxiv.org/pdf/2407.11266) co-authored with my colleague Rong Wang. Congratulations to Rong! I will attend ECCV 2024 in Milano, Italy.  
